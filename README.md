@@ -58,6 +58,7 @@ Legend:
 
 | Mark | Meaning |
 | :--: | ------- |
+| ✅ | **Verified live** — installed and exercised in the real application on this machine; the reminder appeared in a real session. |
 | 🟡 | **Hook-verified** — the tool's own loader/validator accepted the config, and the installed hook command was executed with that tool's documented payload. A live session in the app was not possible on the build machine (auth, plan, or the app is not installed). |
 | 🔵 | **Context-only** — an instruction/rules file the tool reads. The verse reaches the model; it is not printed in your terminal. |
 | ⚠️ | **Extra toggle or manual step** required. |
@@ -65,10 +66,10 @@ Legend:
 | Tool | Integration | Automatic? | Status |
 | ---- | ----------- | ---------- | ------ |
 | **Claude Code** | `SessionStart` hook in `~/.claude/settings.json`, plus a plugin manifest | Yes | 🟡 |
-| **OpenAI Codex CLI** | `SessionStart` hook in `~/.codex/hooks.json` | Yes, after one-time `/hooks` trust | 🟡 |
+| **OpenAI Codex CLI** | `SessionStart` hook in `~/.codex/hooks.json` | Yes, in the interactive TUI after one-time `/hooks` trust | ✅ |
 | **Cursor** | `sessionStart` hook in `~/.cursor/hooks.json` | Yes | 🟡 |
 | **Gemini CLI** | `SessionStart` hook in `~/.gemini/settings.json` | Yes | 🟡 |
-| **OpenCode** | Local plugin in `.opencode/plugins/` | Yes | 🟡 |
+| **OpenCode** | Local plugin in `.opencode/plugins/` | Yes | ✅ |
 | **Windsurf / Devin Desktop** | `pre_user_prompt` hook (Windsurf has no session-start event) | First prompt of a session | 🟡 |
 | **Google Antigravity** | `SessionStart` hook in `.agents/hooks.json` | Yes (context injection) | 🟡 |
 | **Cline** | `TaskStart` hook on macOS/Linux; rules file on Windows | Yes on Unix · context-only on Windows | 🟡 / 🔵 |
@@ -170,6 +171,8 @@ Writes `~/.codex/hooks.json`. Codex enables hooks by default.
 **One-time trust step:** start Codex, run `/hooks`, and approve the `quran-reminder` hook. Codex intentionally refuses to run unreviewed hooks.
 
 **Verify:** `quran doctor`, then start a new Codex session.
+
+> `SessionStart` hooks run in the interactive Codex TUI. `codex exec` (non-interactive) does not fire them in Codex 0.161 — this was tested directly.
 
 ### Cursor
 
@@ -526,14 +529,15 @@ This section is deliberately specific, so you know exactly what you are trusting
 **Manual, on the build machine (Windows 11, Node 22.22):**
 
 - `claude plugin validate . --strict` — marketplace and plugin manifests pass; `claude --plugin-dir . plugin details quran-reminder` loads the plugin and reports **1 SessionStart hook**. A live Claude session could not be run because the local OAuth session had expired.
-- `codex doctor` — Codex reported a healthy configuration with the generated `~/.codex/hooks.json` in place. The hook itself was not executed by Codex, because no credentials are available on this machine.
-- `opencode debug config` — OpenCode discovers `.opencode/plugins/quran-reminder.js` and lists it under `plugin` / `plugin_origins`. A live session was not run.
+- `codex doctor` — Codex reported a healthy configuration with the generated `~/.codex/hooks.json` in place.
+- **OpenAI Codex CLI, live (v0.161.0, Windows):** installed into the real `~/.codex/hooks.json` and ran the interactive Codex TUI under a pseudo-terminal. Codex executed `SessionStart`, passed the documented payload (`session_id`, `transcript_path`, `cwd`, `model`), rendered the verse panel in the TUI, and `~/.quran-reminder/state.json` recorded the verse. **Caveat:** `codex exec` (non-interactive) does **not** run `SessionStart` hooks in 0.161 — tested with both `hooks.json` and inline `[hooks]` TOML — so the integration is TUI-only for now.
+- **OpenCode, live (v1.18.16, Windows):** real `opencode run` sessions loaded `.opencode/plugins/quran-reminder.js`, fired `session.created`, and injected the verse with `noReply: true`. The injected panel is present in `opencode export` (`— Yunus 10:58`, `https://quran.com/10/58`) and in the state file. The model reply itself failed because the local OpenCode API key had expired, so we could not observe the assistant reading it.
 - The exact command written into each hook config was executed with that tool's documented stdin payload, and its output parsed — for Claude Code, Codex, Gemini CLI, Cursor, Windsurf and Antigravity.
 - `npm run verify:data` — sampled ayahs re-fetched from quran.com and alquran.cloud; Arabic, both translations, transliteration and surah names matched exactly.
 
 **Not verified here (please treat as untested until you try it):**
 
-- A live, authenticated session in Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Antigravity, OpenCode, Cline, Roo Code or Aider on this machine.
+- A live, authenticated session in Claude Code, Cursor, Gemini CLI, Windsurf, Antigravity, Cline, Roo Code or Aider on this machine.
 - Gemini CLI, Windsurf, Aider, Cline and Roo Code are **not installed** on the build machine; their configs follow the vendors' published schemas but were not loaded by the real apps.
 - The editors and CLIs themselves were not launched on macOS or Linux. CI does run the full installer, `doctor` and uninstall flow on all three operating systems, plus the hook payload check.
 - Cline's `TaskStart` hook path was tested only on Windows, where Cline uses the rules file instead.
@@ -545,7 +549,7 @@ If an integration does not work for you, please open an issue with `quran doctor
 **The hook runs but I see nothing.**
 
 - Claude Code: approve the hook when prompted, then restart the session.
-- Codex: run `/hooks` and trust `quran-reminder`; Codex does not run untrusted hooks.
+- Codex: run `/hooks` and trust `quran-reminder`; Codex does not run untrusted hooks. Note that `codex exec` (non-interactive) does not run `SessionStart` hooks at all in 0.161 — use the interactive `codex` TUI.
 - Cursor: start a **new chat**; `sessionStart` fires per conversation, not per tab.
 - Cline: enable **Hooks** in Cline's feature settings.
 - Check the plumbing: `QURAN_REMINDER_DEBUG=1 quran doctor`.
