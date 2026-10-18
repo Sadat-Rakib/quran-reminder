@@ -1,0 +1,24 @@
+{
+  "description": "Show one Quranic ayah when a Claude Code session starts.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node",
+            "args": [
+              "${CLAUDE_PLUGIN_ROOT}/bin/quran.js",
+              "hook",
+              "--host",
+              "claude-code"
+            ],
+            "timeout": 20,
+            "statusMessage": "Loading Quran reminder"
+          }
+        ]
+      }
+    ]
+  }
+}

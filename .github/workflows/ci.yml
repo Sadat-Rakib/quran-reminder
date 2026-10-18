@@ -1,0 +1,113 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Tests (${{ matrix.os }}, Node ${{ matrix.node }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+        node: [18, 20, 22]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Run test suite
+        run: npm test
+
+      - name: Render a verse
+        run: node bin/quran.js show --no-color
+
+      - name: CLI smoke test
+        run: |
+          node bin/quran.js --version
+          node bin/quran.js themes
+          node bin/quran.js show --format json > /dev/null
+
+  install-smoke:
+    name: Install / doctor / uninstall (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install for every supported tool in an isolated home
+        shell: bash
+        env:
+          QURAN_REMINDER_HOME: ${{ runner.temp }}/qr-home
+          QURAN_REMINDER_USER_HOME: ${{ runner.temp }}/qr-user
+          QURAN_REMINDER_PROJECT: ${{ runner.temp }}/qr-project
+          NO_COLOR: '1'
+        run: |
+          mkdir -p "$QURAN_REMINDER_PROJECT"
+          node bin/quran.js install --all
+
+      - name: Doctor must pass
+        shell: bash
+        env:
+          QURAN_REMINDER_HOME: ${{ runner.temp }}/qr-home
+          QURAN_REMINDER_USER_HOME: ${{ runner.temp }}/qr-user
+          QURAN_REMINDER_PROJECT: ${{ runner.temp }}/qr-project
+          NO_COLOR: '1'
+        run: node bin/quran.js doctor
+
+      - name: The installed hook answers with a valid payload
+        shell: bash
+        env:
+          QURAN_REMINDER_HOME: ${{ runner.temp }}/qr-home
+          QURAN_REMINDER_USER_HOME: ${{ runner.temp }}/qr-user
+          QURAN_REMINDER_PROJECT: ${{ runner.temp }}/qr-project
+        run: |
+          echo '{"session_id":"ci-session","hook_event_name":"SessionStart"}' \
+            | node "$QURAN_REMINDER_HOME/app/bin/quran.js" hook --host claude-code \
+            | node -e "let s='';process.stdin.on('data',d=>s+=d).on('end',()=>{const j=JSON.parse(s);if(!j.systemMessage)process.exit(1);console.log('hook payload ok')})"
+
+      - name: Uninstall removes everything it created
+        shell: bash
+        env:
+          QURAN_REMINDER_HOME: ${{ runner.temp }}/qr-home
+          QURAN_REMINDER_USER_HOME: ${{ runner.temp }}/qr-user
+          QURAN_REMINDER_PROJECT: ${{ runner.temp }}/qr-project
+          NO_COLOR: '1'
+        run: |
+          node bin/quran.js uninstall --all
+          node bin/quran.js doctor || true
+          if [ -f "$QURAN_REMINDER_PROJECT/.aider/quran-reminder.md" ]; then
+            echo "aider file left behind"; exit 1
+          fi
+          if grep -R --exclude="*.bak" "hook --host" "$QURAN_REMINDER_USER_HOME" 2>/dev/null; then
+            echo "hook left behind"; exit 1
+          fi
+          echo "clean uninstall ok"
+
+  data-verify:
+    name: Verify dataset against upstream
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Spot-check ayahs against quran.com and alquran.cloud
+        run: npm run verify:data

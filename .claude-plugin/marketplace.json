@@ -1,0 +1,27 @@
+{
+  "name": "quran-reminder",
+  "owner": {
+    "name": "Sadat Rakib"
+  },
+  "metadata": {
+    "description": "One Quranic ayah at the start of every coding session.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "quran-reminder",
+      "source": "./",
+      "description": "One Quranic ayah at the start of every Claude Code session — Arabic, transliteration, English translation and a quran.com link, fully offline.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sadat Rakib"
+      },
+      "category": "productivity",
+      "keywords": [
+        "quran",
+        "reminder",
+        "islam"
+      ]
+    }
+  ]
+}

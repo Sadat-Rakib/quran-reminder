@@ -1,0 +1,17 @@
+{
+  "name": "quran-reminder",
+  "version": "1.0.0",
+  "description": "One Quranic ayah at the start of every Claude Code session — Arabic, transliteration, English translation and a quran.com link, fully offline.",
+  "author": {
+    "name": "Sadat Rakib"
+  },
+  "homepage": "https://github.com/Sadat-Rakib/quran-reminder",
+  "repository": "https://github.com/Sadat-Rakib/quran-reminder",
+  "license": "MIT",
+  "keywords": [
+    "quran",
+    "reminder",
+    "islam",
+    "session-start"
+  ]
+}

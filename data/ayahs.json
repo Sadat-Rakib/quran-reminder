@@ -1,0 +1,2791 @@
+{
+  "meta": {
+    "version": 1,
+    "generatedAt": "2026-10-18T23:03:43.074Z",
+    "ayahCount": 145,
+    "themes": [
+      "ilm",
+      "tawakkul",
+      "shukr",
+      "ihsan",
+      "sabr"
+    ],
+    "themeCounts": {
+      "ilm": 32,
+      "tawakkul": 31,
+      "shukr": 29,
+      "ihsan": 29,
+      "sabr": 27
+    },
+    "defaultTranslation": "yusufali",
+    "translations": {
+      "yusufali": "A. Yusuf Ali (public domain)",
+      "pickthall": "M. Marmaduke Pickthall (public domain)"
+    },
+    "sources": [
+      "Arabic (Uthmani): api.quran.com",
+      "Translations: api.quran.com (A. Yusuf Ali, M. Pickthall)",
+      "Transliteration: api.alquran.cloud (en.transliteration)"
+    ]
+  },
+  "ayahs": [
+    {
+      "ref": "2:31",
+      "surah": 2,
+      "ayah": 31,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَـٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَـٰٓؤُلَآءِ إِن كُنتُمْ صَـٰدِقِينَ",
+      "transliteration": "Wa 'allama Aadamal asmaaa'a kullahaa summa 'aradahum 'alal malaaa'ikati faqaala ambi'oonee bias maaa'i haaa'ulaaa'i in kuntum saadiqeen",
+      "translations": {
+        "yusufali": "And He taught Adam the names of all things; then He placed them before the angels, and said: \"Tell me the names of these if ye are right.\"",
+        "pickthall": "And He taught Adam all the names, then showed them to the angels, saying: Inform Me of the names of these, if ye are truthful."
+      },
+      "url": "https://quran.com/2/31"
+    },
+    {
+      "ref": "2:32",
+      "surah": 2,
+      "ayah": 32,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "قَالُوا۟ سُبْحَـٰنَكَ لَا عِلْمَ لَنَآ إِلَّا مَا عَلَّمْتَنَآ ۖ إِنَّكَ أَنتَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "transliteration": "Qaaloo subhaanaka laa 'ilma lanaaa illaa maa 'allamtanaaa innaka antal'aleemul hakeem",
+      "translations": {
+        "yusufali": "They said: \"Glory to Thee, of knowledge We have none, save what Thou Hast taught us: In truth it is Thou Who art perfect in knowledge and wisdom.\"",
+        "pickthall": "They said: Be glorified! We have no knowledge saving that which Thou hast taught us. Lo! Thou, only Thou, art the Knower, the Wise."
+      },
+      "url": "https://quran.com/2/32"
+    },
+    {
+      "ref": "2:45",
+      "surah": 2,
+      "ayah": 45,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ",
+      "transliteration": "Wasta'eenoo bissabri was Salaah; wa innahaa lakabee ratun illaa alal khaashi'een",
+      "translations": {
+        "yusufali": "Nay, seek (Allah's) help with patient perseverance and prayer: It is indeed hard, except to those who bring a lowly spirit,-",
+        "pickthall": "Seek help in patience and prayer; and truly it is hard save for the humble-minded,"
+      },
+      "url": "https://quran.com/2/45"
+    },
+    {
+      "ref": "2:83",
+      "surah": 2,
+      "ayah": 83,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "وَإِذْ أَخَذْنَا مِيثَـٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ",
+      "transliteration": "Wa iz akhaznaa meesaaqa Baneee Israaa'eela laa ta'budoona illal laaha wa bil waalidaini ihsaananw wa zil qurbaa walyataamaa walmasaakeeni wa qooloo linnaasi husnanw wa aqeemus salaata wa aatuzZakaata summa tawallitum illaa qaleelam minkum wa antum mu'ridoon",
+      "translations": {
+        "yusufali": "And remember We took a covenant from the Children of Israel (to this effect): Worship none but Allah; treat with kindness your parents and kindred, and orphans and those in need; speak fair to the people; be steadfast in prayer; and practise regular charity. Then did ye turn back, except a few among you, and ye backslide (even now).",
+        "pickthall": "And (remember) when We made a covenant with the Children of Israel, (saying): Worship none save Allah (only), and be good to parents and to kindred and to orphans and the needy, and speak kindly to mankind; and establish worship and pay the poor-due. Then, after that, ye slid back, save a few of you, being averse."
+      },
+      "url": "https://quran.com/2/83"
+    },
+    {
+      "ref": "2:151",
+      "surah": 2,
+      "ayah": 151,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "كَمَآ أَرْسَلْنَا فِيكُمْ رَسُولًا مِّنكُمْ يَتْلُوا۟ عَلَيْكُمْ ءَايَـٰتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَيُعَلِّمُكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+      "transliteration": "kamaaa arsalnaa feekum Rasoolam minkum yatloo 'alaikum aayaatina wa yuzakkeekum wa yu'alli mukumul kitaaba wal hikmata wa yu'allimukum maa lam takoonoo ta'lamoon",
+      "translations": {
+        "yusufali": "A similar (favour have ye already received) in that We have sent among you a Messenger of your own, rehearsing to you Our Signs, and sanctifying you, and instructing you in Scripture and Wisdom, and in new knowledge.",
+        "pickthall": "Even as We have sent unto you a messenger from among you, who reciteth unto you Our revelations and causeth you to grow, and teacheth you the Scripture and wisdom, and teacheth you that which ye knew not."
+      },
+      "url": "https://quran.com/2/151"
+    },
+    {
+      "ref": "2:152",
+      "surah": 2,
+      "ayah": 152,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+      "transliteration": "Fazkurooneee azkurkum washkuroo lee wa laa takfuroon",
+      "translations": {
+        "yusufali": "Then do ye remember Me; I will remember you. Be grateful to Me, and reject not Faith.",
+        "pickthall": "Therefore remember Me, I will remember you. Give thanks to Me, and reject not Me."
+      },
+      "url": "https://quran.com/2/152"
+    },
+    {
+      "ref": "2:153",
+      "surah": 2,
+      "ayah": 153,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Yaaa ayyuhal laazeena aamanus ta'eenoo bissabri was Salaah; innal laaha ma'as-saabireen",
+      "translations": {
+        "yusufali": "O ye who believe! seek help with patient perseverance and prayer; for Allah is with those who patiently persevere.",
+        "pickthall": "O ye who believe! Seek help in steadfastness and prayer. Lo! Allah is with the steadfast."
+      },
+      "url": "https://quran.com/2/153"
+    },
+    {
+      "ref": "2:155",
+      "surah": 2,
+      "ayah": 155,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Wa lanablu wannakum bishai'im minal khawfi waljoo'i wa naqsim minal amwaali wal anfusi was samaraat; wa bashshiris saabireen",
+      "translations": {
+        "yusufali": "Be sure we shall test you with something of fear and hunger, some loss in goods or lives or the fruits (of your toil), but give glad tidings to those who patiently persevere,",
+        "pickthall": "And surely We shall try you with something of fear and hunger, and loss of wealth and lives and crops; but give glad tidings to the steadfast,"
+      },
+      "url": "https://quran.com/2/155"
+    },
+    {
+      "ref": "2:156",
+      "surah": 2,
+      "ayah": 156,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+      "transliteration": "Allazeena izaaa asaabathum museebatun qaalooo innaa lillaahi wa innaaa ilaihi raaji'oon",
+      "translations": {
+        "yusufali": "Who say, when afflicted with calamity: \"To Allah We belong, and to Him is our return\":-",
+        "pickthall": "Who say, when a misfortune striketh them: Lo! we are Allah's and lo! unto Him we are returning."
+      },
+      "url": "https://quran.com/2/156"
+    },
+    {
+      "ref": "2:164",
+      "surah": 2,
+      "ayah": 164,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَـٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَـَٔايَـٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+      "transliteration": "Inna fee khalqis samaawaati wal ardi wakhtilaafil laili wannahaari walfulkil latee tajree fil hahri bimaa yanfa'unnaasa wa maaa anzalal laahu minas samaaa'i mim maaa'in fa ahyaa bihil arda ba'da mawtihaa wa bas sa feehaa min kulli daaabbatinw wa tasreefir riyaahi wassahaabil musakhkhari bainas samaaa'i wal ardi la aayaatil liqawminy ya'qiloon",
+      "translations": {
+        "yusufali": "Behold! in the creation of the heavens and the earth; in the alternation of the night and the day; in the sailing of the ships through the ocean for the profit of mankind; in the rain which Allah Sends down from the skies, and the life which He gives therewith to an earth that is dead; in the beasts of all kinds that He scatters through the earth; in the change of the winds, and the clouds which they Trail like their slaves between the sky and the earth;- (Here) indeed are Signs for a people that are wise.",
+        "pickthall": "Lo! In the creation of the heavens and the earth, and the difference of night and day, and the ships which run upon the sea with that which is of use to men, and the water which Allah sendeth down from the sky, thereby reviving the earth after its death, and dispersing all kinds of beasts therein, and (in) the ordinance of the winds, and the clouds obedient between heaven and earth: are signs (of Allah's Sovereignty) for people who have sense."
+      },
+      "url": "https://quran.com/2/164"
+    },
+    {
+      "ref": "2:172",
+      "surah": 2,
+      "ayah": 172,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُلُوا۟ مِن طَيِّبَـٰتِ مَا رَزَقْنَـٰكُمْ وَٱشْكُرُوا۟ لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "transliteration": "Yaaa ayyuhal lazeena aamanoo kuloo min taiyibaati maa razaqnaakum washkuroo lillaahi in kuntum iyyaahu ta'budoon",
+      "translations": {
+        "yusufali": "O ye who believe! Eat of the good things that We have provided for you, and be grateful to Allah, if it is Him ye worship.",
+        "pickthall": "O ye who believe! Eat of the good things wherewith We have provided you, and render thanks to Allah if it is (indeed) He Whom ye worship."
+      },
+      "url": "https://quran.com/2/172"
+    },
+    {
+      "ref": "2:177",
+      "surah": 2,
+      "ayah": 177,
+      "themes": [
+        "ihsan",
+        "sabr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+      "transliteration": "Laisal birra an tuwalloo wujoohakum qibalal mashriqi walmaghribi wa laakinnal birra man aamana billaahi wal yawmil aakhiri wal malaaa 'ikati wal kitaabi wan nabiyyeena wa aatalmaala 'alaa hubbihee zawilqurbaa walyataa maa walmasaakeena wabnas sabeeli wassaaa'ileena wa firriqaabi wa aqaamas salaata wa aataz zakaata walmoofoona bi ahdihim izaa 'aahadoo wasaabireena fil baasaaa'i waddarraaa'i wa heenal baas; ulaaa'ikal lazeena sadaqoo wa ulaaa 'ika humul muttaqoon",
+      "translations": {
+        "yusufali": "It is not righteousness that ye turn your faces Towards east or West; but it is righteousness- to believe in Allah and the Last Day, and the Angels, and the Book, and the Messengers; to spend of your substance, out of love for Him, for your kin, for orphans, for the needy, for the wayfarer, for those who ask, and for the ransom of slaves; to be steadfast in prayer, and practice regular charity; to fulfil the contracts which ye have made; and to be firm and patient, in pain (or suffering) and adversity, and throughout all periods of panic. Such are the people of truth, the Allah-fearing.",
+        "pickthall": "It is not righteousness that ye turn your faces to the East and the West; but righteous is he who believeth in Allah and the Last Day and the angels and the Scripture and the prophets; and giveth wealth, for love of Him, to kinsfolk and to orphans and the needy and the wayfarer and to those who ask, and to set slaves free; and observeth proper worship and payeth the poor-due. And those who keep their treaty when they make one, and the patient in tribulation and adversity and time of stress. Such are they who are sincere. Such are the Allah-fearing."
+      },
+      "url": "https://quran.com/2/177"
+    },
+    {
+      "ref": "2:195",
+      "surah": 2,
+      "ayah": 195,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "transliteration": "Wa anfiqoo fee sabeelil laahi wa laa tulqoo bi aydeekum ilat tahlukati wa ahsinoo; innal laaha yuhibbul muhsineen",
+      "translations": {
+        "yusufali": "And spend of your substance in the cause of Allah, and make not your own hands contribute to (your) destruction; but do good; for Allah loveth those who do good.",
+        "pickthall": "Spend your wealth for the cause of Allah, and be not cast by your own hands to ruin; and do good. Lo! Allah loveth the beneficent."
+      },
+      "url": "https://quran.com/2/195"
+    },
+    {
+      "ref": "2:216",
+      "surah": 2,
+      "ayah": 216,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+      "transliteration": "Kutiba alaikumulqitaalu wa huwa kurhullakum wa 'asaaa an takrahoo shai'anw wa huwa khairullakum wa 'asaaa an tuhibbo shai'anw wa huwa sharrullakum; wallaahu ya'lamu wa antum laa ta'lamoon",
+      "translations": {
+        "yusufali": "Fighting is prescribed for you, and ye dislike it. But it is possible that ye dislike a thing which is good for you, and that ye love a thing which is bad for you. But Allah knoweth, and ye know not.",
+        "pickthall": "Warfare is ordained for you, though it is hateful unto you; but it may happen that ye hate a thing which is good for you, and it may happen that ye love a thing which is bad for you. Allah knoweth, ye know not."
+      },
+      "url": "https://quran.com/2/216"
+    },
+    {
+      "ref": "2:250",
+      "surah": 2,
+      "ayah": 250,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+      "transliteration": "Wa lammaa barazoo liJaaloota wa junoodihee qaaloo Rabbanaaa afrigh 'alainaa sabranw wa sabbit aqdaamanaa wansurnaa 'alal qawmil kaafireen",
+      "translations": {
+        "yusufali": "When they advanced to meet Goliath and his forces, they prayed: \"Our Lord! Pour out constancy on us and make our steps firm: Help us against those that reject faith.\"",
+        "pickthall": "And when they went into the field against Goliath and his hosts they said: Our Lord! Bestow on us endurance, make our foothold sure, and give us help against the disbelieving folk."
+      },
+      "url": "https://quran.com/2/250"
+    },
+    {
+      "ref": "2:269",
+      "surah": 2,
+      "ayah": 269,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ ۚ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "transliteration": "Yu'til Hikmata mai yashaaa'; wa mai yutal Hikmata faqad ootiya khairan kaseeraa; wa maa yazzakkaru illaaa ulul albaab",
+      "translations": {
+        "yusufali": "He granteth wisdom to whom He pleaseth; and he to whom wisdom is granted receiveth indeed a benefit overflowing; but none will grasp the Message but men of understanding.",
+        "pickthall": "He giveth wisdom unto whom He will, and he unto whom wisdom is given, he truly hath received abundant good. But none remember except men of understanding."
+      },
+      "url": "https://quran.com/2/269"
+    },
+    {
+      "ref": "2:286",
+      "surah": 2,
+      "ayah": 286,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Baqarah",
+      "surahNameArabic": "البقرة",
+      "surahMeaning": "The Cow",
+      "revelation": "madinah",
+      "arabic": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+      "transliteration": "Laa yukalliful-laahu nafsan illaa wus'ahaa; lahaa maa kasabat wa 'alaihaa maktasabat; Rabbanaa la tu'aakhiznaa in naseenaaa aw akhtaanaa; Rabbanaa wa laa tahmil-'alainaaa isran kamaa hamaltahoo 'alal-lazeena min qablinaa; Rabbanaa wa laa tuhammilnaa maa laa taaqata lanaa bih wa'fu 'annaa waghfir lanaa warhamnaa; Anta mawlaanaa fansurnaa 'alal qawmil kaafireen",
+      "translations": {
+        "yusufali": "On no soul doth Allah Place a burden greater than it can bear. It gets every good that it earns, and it suffers every ill that it earns. (Pray:) \"Our Lord! Condemn us not if we forget or fall into error; our Lord! Lay not on us a burden Like that which Thou didst lay on those before us; Our Lord! Lay not on us a burden greater than we have strength to bear. Blot out our sins, and grant us forgiveness. Have mercy on us. Thou art our Protector; Help us against those who stand against faith.\"",
+        "pickthall": "Allah tasketh not a soul beyond its scope. For it (is only) that which it hath earned, and against it (only) that which it hath deserved. Our Lord! Condemn us not if we forget, or miss the mark! Our Lord! Lay not on us such a burden as thou didst lay on those before us! Our Lord! Impose not on us that which we have not the strength to bear! Pardon us, absolve us and have mercy on us, Thou, our Protector, and give us victory over the disbelieving folk."
+      },
+      "url": "https://quran.com/2/286"
+    },
+    {
+      "ref": "3:7",
+      "surah": 3,
+      "ayah": 7,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَـٰبَ مِنْهُ ءَايَـٰتٌ مُّحْكَمَـٰتٌ هُنَّ أُمُّ ٱلْكِتَـٰبِ وَأُخَرُ مُتَشَـٰبِهَـٰتٌ ۖ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَـٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ ۗ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ ۗ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا ۗ وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "transliteration": "Huwal lazeee anzala 'alaikal Kitaaba minhu Aayaatum Muh kamaatun hunna Ummul Kitaabi wa ukharu Mutashaabihaatun faammal lazeena fee quloobihim ziyghun fa yattabi'oona ma tashaabaha minhubtighaaa 'alfitnati wabtighaaa'a taaweelih; wa maa ya'lamu taaweelahooo illal laah; warraasikhoona fil 'ilmi yaqooloona aamannaa bihee kullum min 'indi Rabbinaa; wa maa yazzakkaru illaaa ulul albaab",
+      "translations": {
+        "yusufali": "He it is Who has sent down to thee the Book: In it are verses basic or fundamental (of established meaning); they are the foundation of the Book: others are allegorical. But those in whose hearts is perversity follow the part thereof that is allegorical, seeking discord, and searching for its hidden meanings, but no one knows its hidden meanings except Allah. And those who are firmly grounded in knowledge say: \"We believe in the Book; the whole of it is from our Lord:\" and none will grasp the Message except men of understanding.",
+        "pickthall": "He it is Who hath revealed unto thee (Muhammad) the Scripture wherein are clear revelations - they are the substance of the Book - and others (which are) allegorical. But those in whose hearts is doubt pursue, forsooth, that which is allegorical seeking (to cause) dissension by seeking to explain it. None knoweth its explanation save Allah. And those who are of sound instruction say: We believe therein; the whole is from our Lord; but only men of understanding really heed."
+      },
+      "url": "https://quran.com/3/7"
+    },
+    {
+      "ref": "3:92",
+      "surah": 3,
+      "ayah": 92,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ ۚ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+      "transliteration": "Lan tanaalul birra hattaa tunfiqoo mimmaa tuhibboon; wa maa tunfiqoo min shai'in fa innal laaha bihee 'Aleem",
+      "translations": {
+        "yusufali": "By no means shall ye attain righteousness unless ye give (freely) of that which ye love; and whatever ye give, of a truth Allah knoweth it well.",
+        "pickthall": "Ye will not attain unto piety until ye spend of that which ye love. And whatsoever ye spend, Allah is Aware thereof."
+      },
+      "url": "https://quran.com/3/92"
+    },
+    {
+      "ref": "3:104",
+      "surah": 3,
+      "ayah": 104,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "وَلْتَكُن مِّنكُمْ أُمَّةٌ يَدْعُونَ إِلَى ٱلْخَيْرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "transliteration": "Waltakum minkum ummatuny yad'oona ilal khairi wa yaamuroona bilma 'roofi wa yanhawna 'anil munkar; wa ulaaa'ika humul muflihoon",
+      "translations": {
+        "yusufali": "Let there arise out of you a band of people inviting to all that is good, enjoining what is right, and forbidding what is wrong: They are the ones to attain felicity.",
+        "pickthall": "And there may spring from you a nation who invite to goodness, and enjoin right conduct and forbid indecency. Such are they who are successful."
+      },
+      "url": "https://quran.com/3/104"
+    },
+    {
+      "ref": "3:110",
+      "surah": 3,
+      "ayah": 110,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "كُنتُمْ خَيْرَ أُمَّةٍ أُخْرِجَتْ لِلنَّاسِ تَأْمُرُونَ بِٱلْمَعْرُوفِ وَتَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَتُؤْمِنُونَ بِٱللَّهِ ۗ وَلَوْ ءَامَنَ أَهْلُ ٱلْكِتَـٰبِ لَكَانَ خَيْرًا لَّهُم ۚ مِّنْهُمُ ٱلْمُؤْمِنُونَ وَأَكْثَرُهُمُ ٱلْفَـٰسِقُونَ",
+      "transliteration": "Kuntum khaira ummatin ukhrijat linnaasi taamuroona bilma'roofi wa tanhawna 'anil munkari wa tu'minoona billaah; wa law aamana Ahlul Kitaabi lakaana khairal lahum minhumul mu'minoona wa aksaruhumul faasiqoon",
+      "translations": {
+        "yusufali": "Ye are the best of peoples, evolved for mankind, enjoining what is right, forbidding what is wrong, and believing in Allah. If only the People of the Book had faith, it were best for them: among them are some who have faith, but most of them are perverted transgressors.",
+        "pickthall": "Ye are the best community that hath been raised up for mankind. Ye enjoin right conduct and forbid indecency; and ye believe in Allah. And if the People of the Scripture had believed it had been better for them. Some of them are believers; but most of them are evil-livers."
+      },
+      "url": "https://quran.com/3/110"
+    },
+    {
+      "ref": "3:122",
+      "surah": 3,
+      "ayah": 122,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "إِذْ هَمَّت طَّآئِفَتَانِ مِنكُمْ أَن تَفْشَلَا وَٱللَّهُ وَلِيُّهُمَا ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "transliteration": "Iz hammat taaa'ifataani minkum an tafshalaa wallaahu waliyyuhumaa; wa 'alal laahi falyatawakkalil mu'minoon",
+      "translations": {
+        "yusufali": "Remember two of your parties Meditated cowardice; but Allah was their protector, and in Allah should the faithful (Ever) put their trust.",
+        "pickthall": "When two parties of you almost fell away, and Allah was their Protecting Friend. In Allah let believers put their trust."
+      },
+      "url": "https://quran.com/3/122"
+    },
+    {
+      "ref": "3:134",
+      "surah": 3,
+      "ayah": 134,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "transliteration": "Allazeena yunfiqoona fissarraaa'i waddarraaa'i wal kaazimeenal ghaiza wal aafeena 'anin-naas; wallaahu yuhibbul muhsineen",
+      "translations": {
+        "yusufali": "Those who spend (freely), whether in prosperity, or in adversity; who restrain anger, and pardon (all) men;- for Allah loves those who do good;-",
+        "pickthall": "Those who spend (of that which Allah hath given them) in ease and in adversity, those who control their wrath and are forgiving toward mankind; Allah loveth the good;"
+      },
+      "url": "https://quran.com/3/134"
+    },
+    {
+      "ref": "3:145",
+      "surah": 3,
+      "ayah": 145,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَـٰبًا مُّؤَجَّلًا ۗ وَمَن يُرِدْ ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْـَٔاخِرَةِ نُؤْتِهِۦ مِنْهَا ۚ وَسَنَجْزِى ٱلشَّـٰكِرِينَ",
+      "transliteration": "Wa maa kaana linafsin an tamoota illaa bi iznillaahi kitaabam mu'ajjalaa; wa mai yurid sawaabad dunyaa nu'tihee minhaa wa mai yurid sawaabal Aakhirati nu'tihee minhaa; wa sanajzish shaakireen",
+      "translations": {
+        "yusufali": "Nor can a soul die except by Allah's leave, the term being fixed as by writing. If any do desire a reward in this life, We shall give it to him; and if any do desire a reward in the Hereafter, We shall give it to him. And swiftly shall We reward those that (serve us with) gratitude.",
+        "pickthall": "No soul can ever die except by Allah's leave and at a term appointed. Whoso desireth the reward of the world, We bestow on him thereof; and whoso desireth the reward of the Hereafter, We bestow on him thereof. We shall reward the thankful."
+      },
+      "url": "https://quran.com/3/145"
+    },
+    {
+      "ref": "3:146",
+      "surah": 3,
+      "ayah": 146,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "وَكَأَيِّن مِّن نَّبِىٍّ قَـٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا۟ لِمَآ أَصَابَهُمْ فِى سَبِيلِ ٱللَّهِ وَمَا ضَعُفُوا۟ وَمَا ٱسْتَكَانُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلصَّـٰبِرِينَ",
+      "transliteration": "Wa ka aiyim min Nabiyyin qaatala ma'ahoo ribbiyyoona kaseerun famaa wahanoo limaaa Asaabahum fee sabeelil laahi wa maa da'ufoo wa mas takaanoo; wallaahu yuhibbus saabireen",
+      "translations": {
+        "yusufali": "How many of the prophets fought (in Allah's way), and with them (fought) Large bands of godly men? but they never lost heart if they met with disaster in Allah's way, nor did they weaken (in will) nor give in. And Allah Loves those who are firm and steadfast.",
+        "pickthall": "And with how many a prophet have there been a number of devoted men who fought (beside him). They quailed not for aught that befell them in the way of Allah, nor did they weaken, nor were they brought low. Allah loveth the steadfast."
+      },
+      "url": "https://quran.com/3/146"
+    },
+    {
+      "ref": "3:148",
+      "surah": 3,
+      "ayah": 148,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ ٱلدُّنْيَا وَحُسْنَ ثَوَابِ ٱلْـَٔاخِرَةِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "transliteration": "Fa aataahumul laahu sawaabad dunyaa wa husna sawaabil Aakhirah; wallaahu yuhibbul muhsineen",
+      "translations": {
+        "yusufali": "And Allah gave them a reward in this world, and the excellent reward of the Hereafter. For Allah Loveth those who do good.",
+        "pickthall": "So Allah gave them the reward of the world and the good reward of the Hereafter. Allah loveth those whose deeds are good."
+      },
+      "url": "https://quran.com/3/148"
+    },
+    {
+      "ref": "3:159",
+      "surah": 3,
+      "ayah": 159,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+      "transliteration": "Fabimaa rahmatim minal laahi linta lahum wa law kunta fazzan ghaleezal qalbi lanfaddoo min hawlika fafu 'anhum wastaghfir lahum wa shaawirhum fil amri fa izaa 'azamta fatawakkal 'alal laah; innallaaha yuhibbul mutawak kileen",
+      "translations": {
+        "yusufali": "It is part of the Mercy of Allah that thou dost deal gently with them Wert thou severe or harsh-hearted, they would have broken away from about thee: so pass over (Their faults), and ask for (Allah's) forgiveness for them; and consult them in affairs (of moment). Then, when thou hast Taken a decision put thy trust in Allah. For Allah loves those who put their trust (in Him).",
+        "pickthall": "It was by the mercy of Allah that thou wast lenient with them (O Muhammad), for if thou hadst been stern and fierce of heart they would have dispersed from round about thee. So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs. And when thou art resolved, then put thy trust in Allah. Lo! Allah loveth those who put their trust (in Him)."
+      },
+      "url": "https://quran.com/3/159"
+    },
+    {
+      "ref": "3:173",
+      "surah": 3,
+      "ayah": 173,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ",
+      "transliteration": "Allazeena qaala lahumun naasu innan naasa qad jama'oo lakum fakhshawhuin fazaadahum eemaannanwa wa qaaloo hasbunal laahu wa ni'malwakeel",
+      "translations": {
+        "yusufali": "Men said to them: \"A great army is gathering against you\": And frightened them: But it (only) increased their Faith: They said: \"For us Allah sufficeth, and He is the best disposer of affairs.\"",
+        "pickthall": "Those unto whom men said: Lo! the people have gathered against you, therefor fear them. (The threat of danger) but increased the faith of them and they cried: Allah is Sufficient for us! Most Excellent is He in Whom we trust!"
+      },
+      "url": "https://quran.com/3/173"
+    },
+    {
+      "ref": "3:190",
+      "surah": 3,
+      "ayah": 190,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍ لِّأُو۟لِى ٱلْأَلْبَـٰبِ",
+      "transliteration": "Inna fee khalqis samaawati wal ardi wakhtilaafil laili wannahaari la Aayaatil liulil albaab",
+      "translations": {
+        "yusufali": "Behold! in the creation of the heavens and the earth, and the alternation of night and day,- there are indeed Signs for men of understanding,-",
+        "pickthall": "Lo! In the creation of the heavens and the earth and (in) the difference of night and day are tokens (of His Sovereignty) for men of understanding,"
+      },
+      "url": "https://quran.com/3/190"
+    },
+    {
+      "ref": "3:191",
+      "surah": 3,
+      "ayah": 191,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ",
+      "transliteration": "Allazeena yazkuroonal laaha qiyaamaiw-wa qu'oodanw-wa 'alaa juno obihim wa yatafakkaroona fee khalqis samaawaati wal ardi Rabbanaa maa khalaqta haaza baatilan Subhaanak faqinaa 'azaaban Naar",
+      "translations": {
+        "yusufali": "Men who celebrate the praises of Allah, standing, sitting, and lying down on their sides, and contemplate the (wonders of) creation in the heavens and the earth, (With the thought): \"Our Lord! not for naught Hast Thou created (all) this! Glory to Thee! Give us salvation from the penalty of the Fire.",
+        "pickthall": "Such as remember Allah, standing, sitting, and reclining, and consider the creation of the heavens and the earth, (and say): Our Lord! Thou createdst not this in vain. Glory be to Thee! Preserve us from the doom of Fire."
+      },
+      "url": "https://quran.com/3/191"
+    },
+    {
+      "ref": "3:200",
+      "surah": 3,
+      "ayah": 200,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Ali 'Imran",
+      "surahNameArabic": "آل عمران",
+      "surahMeaning": "Family of Imran",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+      "transliteration": "Yaaa aiyuhal lazeena aamanus biroo wa saabiroo wa raabitoo wattaqul laaha la'allakum tuflihoon",
+      "translations": {
+        "yusufali": "O ye who believe! Persevere in patience and constancy; vie in such perseverance; strengthen each other; and fear Allah; that ye may prosper.",
+        "pickthall": "O ye who believe! Endure, outdo all others in endurance, be ready, and observe your duty to Allah, in order that ye may succeed."
+      },
+      "url": "https://quran.com/3/200"
+    },
+    {
+      "ref": "4:36",
+      "surah": 4,
+      "ayah": 36,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "An-Nisa",
+      "surahNameArabic": "النساء",
+      "surahMeaning": "The Women",
+      "revelation": "madinah",
+      "arabic": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+      "transliteration": "Wa'budul laaha wa laa tushrikoo bihee shai'anw wa bilwaalidaini ihsaananw wa bizil qurbaa walyataamaa walmasaakeeni waljaari zilqurbaa waljaaril junubi wassaahibi biljambi wabnis sabeeli wa maa malakat aimaanukum; innal laaha laa yuhibbu man kaana mukhtaalan fakhooraa",
+      "translations": {
+        "yusufali": "Serve Allah, and join not any partners with Him; and do good- to parents, kinsfolk, orphans, those in need, neighbours who are near, neighbours who are strangers, the companion by your side, the wayfarer (ye meet), and what your right hands possess: For Allah loveth not the arrogant, the vainglorious;-",
+        "pickthall": "And serve Allah. Ascribe no thing as partner unto Him. (Show) kindness unto parents, and unto near kindred, and orphans, and the needy, and unto the neighbour who is of kin (unto you) and the neighbour who is not of kin, and the fellow-traveller and the wayfarer and (the slaves) whom your right hands possess. Lo! Allah loveth not such as are proud and boastful,"
+      },
+      "url": "https://quran.com/4/36"
+    },
+    {
+      "ref": "4:58",
+      "surah": 4,
+      "ayah": 58,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "An-Nisa",
+      "surahNameArabic": "النساء",
+      "surahMeaning": "The Women",
+      "revelation": "madinah",
+      "arabic": "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَـٰنَـٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا",
+      "transliteration": "Innal laaha yaamurukum an tu'addul amaanaati ilaaa ahlihaa wa izaa hakamtum bainan naasi an tahkumoo bil 'adl; innal laaha yaamurukum an tu'addul amaanaati ilaaa ahlihaa wa izaa hakamtum bainan naasi an tahkumoo bil 'adl; innal laaha ni'immaa ya'izukum bih; innal laaha kaana Samee'am Baseera",
+      "translations": {
+        "yusufali": "Allah doth command you to render back your Trusts to those to whom they are due; And when ye judge between man and man, that ye judge with justice: Verily how excellent is the teaching which He giveth you! For Allah is He Who heareth and seeth all things.",
+        "pickthall": "Lo! Allah commandeth you that ye restore deposits to their owners, and, if ye judge between mankind, that ye judge justly. Lo! comely is this which Allah admonisheth you. Lo! Allah is ever Hearer, Seer."
+      },
+      "url": "https://quran.com/4/58"
+    },
+    {
+      "ref": "4:82",
+      "surah": 4,
+      "ayah": 82,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "An-Nisa",
+      "surahNameArabic": "النساء",
+      "surahMeaning": "The Women",
+      "revelation": "madinah",
+      "arabic": "أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ ۚ وَلَوْ كَانَ مِنْ عِندِ غَيْرِ ٱللَّهِ لَوَجَدُوا۟ فِيهِ ٱخْتِلَـٰفًا كَثِيرًا",
+      "transliteration": "Afalaa yatadabbaroonal Qur'aan; wa law kaana min 'indi ghairil laahi la wajadoo fee hikh tilaafan kaseeraa",
+      "translations": {
+        "yusufali": "Do they not consider the Qur'an (with care)? Had it been from other Than Allah, they would surely have found therein Much discrepancy.",
+        "pickthall": "Will they not then ponder on the Qur'an? If it had been from other than Allah they would have found therein much incongruity."
+      },
+      "url": "https://quran.com/4/82"
+    },
+    {
+      "ref": "4:125",
+      "surah": 4,
+      "ayah": 125,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "An-Nisa",
+      "surahNameArabic": "النساء",
+      "surahMeaning": "The Women",
+      "revelation": "madinah",
+      "arabic": "وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ إِبْرَٰهِيمَ حَنِيفًا ۗ وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا",
+      "transliteration": "Wa man ahsanu deenam mimmman aslama wajhahoo lillaahi wa huwa muhsinunw wattaba'a Millata Ibraaheema haneefaa; wattakhazal laahu Ibraaheema khaleelaa",
+      "translations": {
+        "yusufali": "Who can be better in religion than one who submits his whole self to Allah, does good, and follows the way of Abraham the true in Faith? For Allah did take Abraham for a friend.",
+        "pickthall": "Who is better in religion than he who surrendereth his purpose to Allah while doing good (to men) and followeth the tradition of Abraham, the upright? Allah (Himself) chose Abraham for friend."
+      },
+      "url": "https://quran.com/4/125"
+    },
+    {
+      "ref": "5:23",
+      "surah": 5,
+      "ayah": 23,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Ma'idah",
+      "surahNameArabic": "المائدة",
+      "surahMeaning": "The Table Spread",
+      "revelation": "madinah",
+      "arabic": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَـٰلِبُونَ ۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ",
+      "transliteration": "Qaala rajulaani minal lazeena yakhaafoona an'amal laahu 'alaihimad khuloo 'alaihimul baab, fa izaa dakhaltumoohu fa innakum ghaaliboon; wa 'alal laahi fatawakkalooo in kuntum mu'mineen",
+      "translations": {
+        "yusufali": "(But) among (their) Allah-fearing men were two on whom Allah had bestowed His grace: They said: \"Assault them at the (proper) Gate: when once ye are in, victory will be yours; But on Allah put your trust if ye have faith.\"",
+        "pickthall": "Then out spake two of those who feared (their Lord, men) unto whom Allah had been gracious: Enter in upon them by the gate, for if ye enter by it, lo! ye will be victorious. So put your trust (in Allah) if ye are indeed believers."
+      },
+      "url": "https://quran.com/5/23"
+    },
+    {
+      "ref": "5:93",
+      "surah": 5,
+      "ayah": 93,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Ma'idah",
+      "surahNameArabic": "المائدة",
+      "surahMeaning": "The Table Spread",
+      "revelation": "madinah",
+      "arabic": "لَيْسَ عَلَى ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ جُنَاحٌ فِيمَا طَعِمُوٓا۟ إِذَا مَا ٱتَّقَوا۟ وَّءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ ثُمَّ ٱتَّقَوا۟ وَّءَامَنُوا۟ ثُمَّ ٱتَّقَوا۟ وَّأَحْسَنُوا۟ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
+      "transliteration": "Laisa 'alal lazeena aamanoo wa 'amilus saalihaati junaahun feemaa ta'imooo izaa mat taqaw wa aamanoo wa 'amilus saalihaati summat taqaw wa aamanoo summat taqaw wa ahsanoo; wallaahu yuhibbul muhsineen",
+      "translations": {
+        "yusufali": "On those who believe and do deeds of righteousness there is no blame for what they ate (in the past), when they guard themselves from evil, and believe, and do deeds of righteousness,- (or) again, guard themselves from evil and believe,- (or) again, guard themselves from evil and do good. For Allah loveth those who do good.",
+        "pickthall": "There shall be no sin (imputed) unto those who believe and do good works for what they may have eaten (in the past). So be mindful of your duty (to Allah), and believe, and do good works; and again: be mindful of your duty, and believe; and once again: be mindful of your duty, and do right. Allah loveth the good."
+      },
+      "url": "https://quran.com/5/93"
+    },
+    {
+      "ref": "6:97",
+      "surah": 6,
+      "ayah": 97,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-An'am",
+      "surahNameArabic": "الأنعام",
+      "surahMeaning": "The Cattle",
+      "revelation": "makkah",
+      "arabic": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهْتَدُوا۟ بِهَا فِى ظُلُمَـٰتِ ٱلْبَرِّ وَٱلْبَحْرِ ۗ قَدْ فَصَّلْنَا ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "transliteration": "Wa Huwal lazee ja'ala lakumun nujooma litahtadoo bihaa fee zulumaatil barri walbahr; qad fassalnal Aayaati liqawminy ya'lamoon",
+      "translations": {
+        "yusufali": "It is He Who maketh the stars (as beacons) for you, that ye may guide yourselves, with their help, through the dark spaces of land and sea: We detail Our signs for people who know.",
+        "pickthall": "And He it is Who hath set for you the stars that ye may guide your course by them amid the darkness of the land and the sea. We have detailed Our revelations for a people who have knowledge."
+      },
+      "url": "https://quran.com/6/97"
+    },
+    {
+      "ref": "6:141",
+      "surah": 6,
+      "ayah": 141,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-An'am",
+      "surahNameArabic": "الأنعام",
+      "surahMeaning": "The Cattle",
+      "revelation": "makkah",
+      "arabic": "۞ وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّـٰتٍ مَّعْرُوشَـٰتٍ وَغَيْرَ مَعْرُوشَـٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَـٰبِهًا وَغَيْرَ مُتَشَـٰبِهٍ ۚ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ ۖ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ",
+      "transliteration": "Wa Huwal lazee ansha-a jannaatim ma'rooshaatinw wa ghaira ma'rooshaatinw wan nakhla wazzar'a mukhtalifan ukuluhoo wazzaitoona warrum maana mutashaabihanw wa ghaira mutashaabih; kuloo min samariheee izaaa asmara wa aatoo haqqahoo yawma hasaadihee wa laa tusrifoo; innahoo laa yuhibbul musrifeen",
+      "translations": {
+        "yusufali": "It is He Who produceth gardens, with trellises and without, and dates, and tilth with produce of all kinds, and olives and pomegranates, similar (in kind) and different (in variety): eat of their fruit in their season, but render the dues that are proper on the day that the harvest is gathered. But waste not by excess: for Allah loveth not the wasters.",
+        "pickthall": "He it is Who produceth gardens trellised and untrellised, and the date-palm, and crops of divers flavour, and the olive and the pomegranate, like and unlike. Eat ye of the fruit thereof when it fruiteth, and pay the due thereof upon the harvest day, and be not prodigal. Lo! Allah loveth not the prodigals."
+      },
+      "url": "https://quran.com/6/141"
+    },
+    {
+      "ref": "7:10",
+      "surah": 7,
+      "ayah": 10,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-A'raf",
+      "surahNameArabic": "الأعراف",
+      "surahMeaning": "The Heights",
+      "revelation": "makkah",
+      "arabic": "وَلَقَدْ مَكَّنَّـٰكُمْ فِى ٱلْأَرْضِ وَجَعَلْنَا لَكُمْ فِيهَا مَعَـٰيِشَ ۗ قَلِيلًا مَّا تَشْكُرُونَ",
+      "transliteration": "Wa laqad makkannaakum fil ardi wa ja'alnaa lakum feehaa ma'aayish; qaleelam maa tashkuroon",
+      "translations": {
+        "yusufali": "It is We Who have placed you with authority on earth, and provided you therein with means for the fulfilment of your life: small are the thanks that ye give!",
+        "pickthall": "And We have given you (mankind) power in the earth, and appointed for you therein livelihoods. Little give ye thanks!"
+      },
+      "url": "https://quran.com/7/10"
+    },
+    {
+      "ref": "7:56",
+      "surah": 7,
+      "ayah": 56,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-A'raf",
+      "surahNameArabic": "الأعراف",
+      "surahMeaning": "The Heights",
+      "revelation": "makkah",
+      "arabic": "وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَـٰحِهَا وَٱدْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ ٱللَّهِ قَرِيبٌ مِّنَ ٱلْمُحْسِنِينَ",
+      "transliteration": "Wa laa tufsidoo fil ardi ba'da islaahihaa wad'oohu khawfanw wa tama'aa; inna rahmatal laahi qareebum minal muhsineen",
+      "translations": {
+        "yusufali": "Do no mischief on the earth, after it hath been set in order, but call on Him with fear and longing (in your hearts): for the Mercy of Allah is (always) near to those who do good.",
+        "pickthall": "Work not confusion in the earth after the fair ordering (thereof). and call on Him in fear and hope. Lo! the mercy of Allah is nigh unto the good."
+      },
+      "url": "https://quran.com/7/56"
+    },
+    {
+      "ref": "7:89",
+      "surah": 7,
+      "ayah": 89,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-A'raf",
+      "surahNameArabic": "الأعراف",
+      "surahMeaning": "The Heights",
+      "revelation": "makkah",
+      "arabic": "قَدِ ٱفْتَرَيْنَا عَلَى ٱللَّهِ كَذِبًا إِنْ عُدْنَا فِى مِلَّتِكُم بَعْدَ إِذْ نَجَّىٰنَا ٱللَّهُ مِنْهَا ۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَا ۚ وَسِعَ رَبُّنَا كُلَّ شَىْءٍ عِلْمًا ۚ عَلَى ٱللَّهِ تَوَكَّلْنَا ۚ رَبَّنَا ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ وَأَنتَ خَيْرُ ٱلْفَـٰتِحِينَ",
+      "transliteration": "Qadif tarainaa 'alal laahi kaziban in 'udnaa fee millatikum ba'da iz najjaanal laahu minhaa; wa maa yakoonu lanaaa an na'ooda feehaaa illaaa ai yashaaa'al laahu Rabbunaa; wasi'a Rabbunaa kulla shai'in 'ilmaa; 'alal laahi tawakkalnaa; Rabbanaf tah bainanaa wa baina qawminaa bilhaqqi wa Anta khairul faatiheen",
+      "translations": {
+        "yusufali": "\"We should indeed invent a lie against Allah, if we returned to your ways after Allah hath rescued us therefrom; nor could we by any manner of means return thereto unless it be as in the will and plan of Allah, Our Lord. Our Lord can reach out to the utmost recesses of things by His knowledge. In the Allah is our trust. our Lord! decide Thou between us and our people in truth, for Thou art the best to decide.\"",
+        "pickthall": "We should have invented a lie against Allah if we returned to your religion after Allah hath rescued us from it. It is not for us to return to it unless Allah our Lord should (so) will. Our Lord comprehendeth all things in knowledge. In Allah do we put our trust. Our Lord! Decide with truth between us and our folk, for Thou art the best of those who make decision."
+      },
+      "url": "https://quran.com/7/89"
+    },
+    {
+      "ref": "8:2",
+      "surah": 8,
+      "ayah": 2,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Anfal",
+      "surahNameArabic": "الأنفال",
+      "surahMeaning": "The Spoils of War",
+      "revelation": "madinah",
+      "arabic": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَـٰتُهُۥ زَادَتْهُمْ إِيمَـٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "transliteration": "Innamal mu'minoonal lazeena izaa zukiral laahu wajilat quloobuhum wa izaa tuliyat 'alaihim Aayaatuhoo zaadat hum eemaananw wa 'alaa Rabbihim yatawakkaloon",
+      "translations": {
+        "yusufali": "For, Believers are those who, when Allah is mentioned, feel a tremor in their hearts, and when they hear His signs rehearsed, find their faith strengthened, and put (all) their trust in their Lord;",
+        "pickthall": "They only are the (true) believers whose hearts feel fear when Allah is mentioned, and when His revelations are recited unto them they increase their faith, and who trust in their Lord;"
+      },
+      "url": "https://quran.com/8/2"
+    },
+    {
+      "ref": "9:51",
+      "surah": 9,
+      "ayah": 51,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "At-Tawbah",
+      "surahNameArabic": "التوبة",
+      "surahMeaning": "The Repentance",
+      "revelation": "madinah",
+      "arabic": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "transliteration": "Qul lany-yuseebanaaa illaa maa katabal laahu lanaa Huwa mawlaanaa; wa 'alal laahi falyatawak kalimu 'minoon",
+      "translations": {
+        "yusufali": "Say: \"Nothing will happen to us except what Allah has decreed for us: He is our protector\": and on Allah let the Believers put their trust.",
+        "pickthall": "Say: Naught befalleth us save that which Allah hath decreed for us. He is our Protecting Friend. In Allah let believers put their trust!"
+      },
+      "url": "https://quran.com/9/51"
+    },
+    {
+      "ref": "9:129",
+      "surah": 9,
+      "ayah": 129,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "At-Tawbah",
+      "surahNameArabic": "التوبة",
+      "surahMeaning": "The Repentance",
+      "revelation": "madinah",
+      "arabic": "فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+      "transliteration": "Fa in tawallaw faqul lhasbiyal laahu laaa ilaaha illaa Huwa 'alaihi tawakkkaltu wa Huwa Rabbul 'Arshil 'Azeem",
+      "translations": {
+        "yusufali": "But if they turn away, Say: \"Allah sufficeth me: there is no god but He: On Him is my trust,- He the Lord of the Throne (of Glory) Supreme!\"",
+        "pickthall": "Now, if they turn away (O Muhammad) say: Allah sufficeth me. There is no Allah save Him. In Him have I put my trust, and He is Lord of the Tremendous Throne."
+      },
+      "url": "https://quran.com/9/129"
+    },
+    {
+      "ref": "10:5",
+      "surah": 10,
+      "ayah": 5,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Yunus",
+      "surahNameArabic": "يونس",
+      "surahMeaning": "Jonah",
+      "revelation": "makkah",
+      "arabic": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ",
+      "transliteration": "Huwal lazee ja'alash shamsa diyaaa'anw walqamara nooranw wa qaddarahoo manaaz zila lita'lamoo 'adadas sineena walhisaab; maa khalaqal laahu zaalika illa bilhaqq; yufassilul aayaati liqawminw ya'lamoon",
+      "translations": {
+        "yusufali": "It is He Who made the sun to be a shining glory and the moon to be a light (of beauty), and measured out stages for her; that ye might know the number of years and the count (of time). Nowise did Allah create this but in truth and righteousness. (Thus) doth He explain His Signs in detail, for those who understand.",
+        "pickthall": "He it is Who appointed the sun a splendour and the moon a light, and measured for her stages, that ye might know the number of the years, and the reckoning. Allah created not (all) that save in truth. He detaileth the revelations for people who have knowledge."
+      },
+      "url": "https://quran.com/10/5"
+    },
+    {
+      "ref": "10:58",
+      "surah": 10,
+      "ayah": 58,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Yunus",
+      "surahNameArabic": "يونس",
+      "surahMeaning": "Jonah",
+      "revelation": "makkah",
+      "arabic": "قُلْ بِفَضْلِ ٱللَّهِ وَبِرَحْمَتِهِۦ فَبِذَٰلِكَ فَلْيَفْرَحُوا۟ هُوَ خَيْرٌ مِّمَّا يَجْمَعُونَ",
+      "transliteration": "Qul bifadlil laahi wa birahmatihii fabizaalika falyaf rahoo huwa khairum mimmaa yajma'oon",
+      "translations": {
+        "yusufali": "Say: \"In the bounty of Allah. And in His Mercy,- in that let them rejoice\": that is better than the (wealth) they hoard.",
+        "pickthall": "Say: In the bounty of Allah and in His mercy: therein let them rejoice. It is better than what they hoard."
+      },
+      "url": "https://quran.com/10/58"
+    },
+    {
+      "ref": "10:85",
+      "surah": 10,
+      "ayah": 85,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Yunus",
+      "surahNameArabic": "يونس",
+      "surahMeaning": "Jonah",
+      "revelation": "makkah",
+      "arabic": "فَقَالُوا۟ عَلَى ٱللَّهِ تَوَكَّلْنَا رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "transliteration": "Faqaaloo 'alal laahi tawakkalnaa Rabbanaa laa taj'alnaa fitnatal lilqawmiz zaalimeen",
+      "translations": {
+        "yusufali": "They said: \"In Allah do we put our trust. Our Lord! make us not a trial for those who practise oppression;",
+        "pickthall": "They said: In Allah we put trust. Our Lord! Oh, make us not a lure for the wrongdoing folk;"
+      },
+      "url": "https://quran.com/10/85"
+    },
+    {
+      "ref": "11:88",
+      "surah": 11,
+      "ayah": 88,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Hud",
+      "surahNameArabic": "هود",
+      "surahMeaning": "Hud",
+      "revelation": "makkah",
+      "arabic": "قَالَ يَـٰقَوْمِ أَرَءَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّى وَرَزَقَنِى مِنْهُ رِزْقًا حَسَنًا ۚ وَمَآ أُرِيدُ أَنْ أُخَالِفَكُمْ إِلَىٰ مَآ أَنْهَىٰكُمْ عَنْهُ ۚ إِنْ أُرِيدُ إِلَّا ٱلْإِصْلَـٰحَ مَا ٱسْتَطَعْتُ ۚ وَمَا تَوْفِيقِىٓ إِلَّا بِٱللَّهِ ۚ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+      "transliteration": "Qaala yaa qawmi ara'aitum in kuntu 'alaa baiyinatim mir Rabbee wa razaqanee minhu rizqan hasanaa; wa maaa ureedu an ukhaalifakum ilaa maaa anhaakum 'anh; in ureedu illal islaaha mastata't; wa maa tawfeeqeee illaa billaah; 'alaihi tawakkaltu wa ilaihi uneeb",
+      "translations": {
+        "yusufali": "He said: \"O my people! see ye whether I have a Clear (Sign) from my Lord, and He hath given me sustenance (pure and) good as from Himself? I wish not, in opposition to you, to do that which I forbid you to do. I only desire (your) betterment to the best of my power; and my success (in my task) can only come from Allah. In Him I trust, and unto Him I look.",
+        "pickthall": "He said: O my people! Bethink you: if I am (acting) on a clear proof from my Lord and He sustaineth me with fair sustenance from Him (how can I concede aught to you)? I desire not to do behind your backs that which I ask you not to do. I desire naught save reform so far as I am able. My welfare is only in Allah. In Him I trust and unto Him I turn (repentant)."
+      },
+      "url": "https://quran.com/11/88"
+    },
+    {
+      "ref": "11:115",
+      "surah": 11,
+      "ayah": 115,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Hud",
+      "surahNameArabic": "هود",
+      "surahMeaning": "Hud",
+      "revelation": "makkah",
+      "arabic": "وَٱصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "transliteration": "Wasbir fa innal laaha laa yudee'u ajral muhsineen",
+      "translations": {
+        "yusufali": "And be steadfast in patience; for verily Allah will not suffer the reward of the righteous to perish.",
+        "pickthall": "And have patience, (O Muhammad), for lo! Allah loseth not the wages of the good."
+      },
+      "url": "https://quran.com/11/115"
+    },
+    {
+      "ref": "12:67",
+      "surah": 12,
+      "ayah": 67,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Yusuf",
+      "surahNameArabic": "يوسف",
+      "surahMeaning": "Joseph",
+      "revelation": "makkah",
+      "arabic": "وَقَالَ يَـٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ ۖ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ ۖ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "transliteration": "Wa qaala yaa baniyya laa tadkhuloo mim baabinw waa hidinw wadkhuloo min abwaabim mutafarriqah; wa maaa ughnee 'ankum minal laahi min shai'in; inil hukmu illaa lillaahi 'alaihi tawakkaltu wa 'alaihi fal yatawakkalil Mutawakkiloon",
+      "translations": {
+        "yusufali": "Further he said: \"O my sons! enter not all by one gate: enter ye by different gates. Not that I can profit you aught against Allah (with my advice): None can command except Allah: On Him do I put my trust: and let all that trust put their trust on Him.\"",
+        "pickthall": "And he said: O my sons! Go not in by one gate; go in by different gates. I can naught avail you as against Allah. Lo! the decision rests with Allah only. In Him do I put my trust, and in Him let all the trusting put their trust."
+      },
+      "url": "https://quran.com/12/67"
+    },
+    {
+      "ref": "12:83",
+      "surah": 12,
+      "ayah": 83,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Yusuf",
+      "surahNameArabic": "يوسف",
+      "surahMeaning": "Joseph",
+      "revelation": "makkah",
+      "arabic": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا ۖ فَصَبْرٌ جَمِيلٌ ۖ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "transliteration": "Qaala bal sawwalat lakum anfusukum amran fasabrun jameelun 'asal laahu any yaa tiyanee bihim jamee'aa; innahoo Huwal 'Aleemul Hakeem",
+      "translations": {
+        "yusufali": "Jacob said: \"Nay, but ye have yourselves contrived a story (good enough) for you. So patience is most fitting (for me). Maybe Allah will bring them (back) all to me (in the end). For He is indeed full of knowledge and wisdom.\"",
+        "pickthall": "(And when they came unto their father and had spoken thus to him) he said: Nay, but your minds have beguiled you into something. (My course is) comely patience! It may be that Allah will bring them all unto me. Lo! He, only He, is the Knower, the Wise."
+      },
+      "url": "https://quran.com/12/83"
+    },
+    {
+      "ref": "12:90",
+      "surah": 12,
+      "ayah": 90,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Yusuf",
+      "surahNameArabic": "يوسف",
+      "surahMeaning": "Joseph",
+      "revelation": "makkah",
+      "arabic": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَـٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "transliteration": "Qaaloo 'a innaka la anta Yoosufu qaala ana Yoosufu wa haazaaa akhee qad mannal laahu 'alainaa innahoo mai yattaqi wa yasbir fa innal laaha laa yudee'u ajral muhsineen",
+      "translations": {
+        "yusufali": "They said: \"Art thou indeed Joseph?\" He said, \"I am Joseph, and this is my brother: Allah has indeed been gracious to us (all): behold, he that is righteous and patient,- never will Allah suffer the reward to be lost, of those who do right.\"",
+        "pickthall": "They said: Is it indeed thou who art Joseph? He said: I am Joseph and this is my brother. Allah hath shown us favour. Lo! he who wardeth off (evil) and endureth (findeth favour); for lo! Allah loseth not the wages of the kindly."
+      },
+      "url": "https://quran.com/12/90"
+    },
+    {
+      "ref": "13:24",
+      "surah": 13,
+      "ayah": 24,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Ar-Ra'd",
+      "surahNameArabic": "الرعد",
+      "surahMeaning": "The Thunder",
+      "revelation": "madinah",
+      "arabic": "سَلَـٰمٌ عَلَيْكُم بِمَا صَبَرْتُمْ ۚ فَنِعْمَ عُقْبَى ٱلدَّارِ",
+      "transliteration": "Salaamun 'alaikum bimaa sabartum; fani'ma 'uqbad daar",
+      "translations": {
+        "yusufali": "\"Peace unto you for that ye persevered in patience! Now how excellent is the final home!\"",
+        "pickthall": "(Saying): Peace be unto you because ye persevered. Ah, passing sweet will be the sequel of the (heavenly) Home."
+      },
+      "url": "https://quran.com/13/24"
+    },
+    {
+      "ref": "14:7",
+      "surah": 14,
+      "ayah": 7,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Ibrahim",
+      "surahNameArabic": "ابراهيم",
+      "surahMeaning": "Abraham",
+      "revelation": "makkah",
+      "arabic": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ",
+      "transliteration": "Wa iz ta azzana Rabbukum la'in shakartum la azeedannakum wa la'in kafartum inn'azaabee lashadeed",
+      "translations": {
+        "yusufali": "And remember! your Lord caused to be declared (publicly): \"If ye are grateful, I will add more (favours) unto you; But if ye show ingratitude, truly My punishment is terrible indeed.\"",
+        "pickthall": "And when your Lord proclaimed: If ye give thanks, I will give you more; but if ye are thankless, lo! My punishment is dire."
+      },
+      "url": "https://quran.com/14/7"
+    },
+    {
+      "ref": "14:12",
+      "surah": 14,
+      "ayah": 12,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ibrahim",
+      "surahNameArabic": "ابراهيم",
+      "surahMeaning": "Abraham",
+      "revelation": "makkah",
+      "arabic": "وَمَا لَنَآ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدْ هَدَىٰنَا سُبُلَنَا ۚ وَلَنَصْبِرَنَّ عَلَىٰ مَآ ءَاذَيْتُمُونَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "transliteration": "Wa maa lanaa allaa natawakkala 'alal laahi wa qad hadaanaa subulanaa; wa lanasbiranna 'alaa maaa aazaitumoonaa; wa 'alal laahi falyatawakkalil mutawakkiloon",
+      "translations": {
+        "yusufali": "\"No reason have we why we should not put our trust on Allah. Indeed He Has guided us to the Ways we (follow). We shall certainly bear with patience all the hurt you may cause us. For those who put their trust should put their trust on Allah.\"",
+        "pickthall": "How should we not put our trust in Allah when He hath shown us our ways? We surely will endure the hurt ye do us. In Allah let the trusting put their trust."
+      },
+      "url": "https://quran.com/14/12"
+    },
+    {
+      "ref": "14:34",
+      "surah": 14,
+      "ayah": 34,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Ibrahim",
+      "surahNameArabic": "ابراهيم",
+      "surahMeaning": "Abraham",
+      "revelation": "makkah",
+      "arabic": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَـٰنَ لَظَلُومٌ كَفَّارٌ",
+      "transliteration": "Wa aataakum min kulli maa sa altumooh; wa in ta'uddoo ni'matal laahi laa tuhsoohaa; innal insaana lazaloo mun kaffaar",
+      "translations": {
+        "yusufali": "And He giveth you of all that ye ask for. But if ye count the favours of Allah, never will ye be able to number them. Verily, man is given up to injustice and ingratitude.",
+        "pickthall": "And He giveth you of all ye ask of Him, and if ye would count the bounty of Allah ye cannot reckon it. Lo! man is verily a wrong-doer, an ingrate."
+      },
+      "url": "https://quran.com/14/34"
+    },
+    {
+      "ref": "16:14",
+      "surah": 16,
+      "ayah": 14,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "وَهُوَ ٱلَّذِى سَخَّرَ ٱلْبَحْرَ لِتَأْكُلُوا۟ مِنْهُ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُوا۟ مِنْهُ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "transliteration": "Wa Huwal lazee sakhkharal bahra litaakuloo minhu lahman tariyyanw wa tastakhrijoo minhu hilyatan talbasoonahaa wa taral fulka mawaakhira feehi wa litabtaghoo min fadlihee wa la'allakum tashkuroon",
+      "translations": {
+        "yusufali": "It is He Who has made the sea subject, that ye may eat thereof flesh that is fresh and tender, and that ye may extract therefrom ornaments to wear; and thou seest the ships therein that plough the waves, that ye may seek (thus) of the bounty of Allah and that ye may be grateful.",
+        "pickthall": "And He it is Who hath constrained the sea to be of service that ye eat fresh meat from thence, and bring forth from thence ornaments which ye wear. And thou seest the ships ploughing it that ye (mankind) may seek of His bounty and that haply ye may give thanks."
+      },
+      "url": "https://quran.com/16/14"
+    },
+    {
+      "ref": "16:18",
+      "surah": 16,
+      "ayah": 18,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌ رَّحِيمٌ",
+      "transliteration": "Wa in ta'uddoo ni'matal laahi laa tuhsoohaa; innal laaha la Ghafoorur Raheem",
+      "translations": {
+        "yusufali": "If ye would count up the favours of Allah, never would ye be able to number them: for Allah is Oft-Forgiving, Most Merciful.",
+        "pickthall": "And if ye would count the favour of Allah ye cannot reckon it. Lo! Allah is indeed Forgiving, Merciful."
+      },
+      "url": "https://quran.com/16/18"
+    },
+    {
+      "ref": "16:42",
+      "surah": 16,
+      "ayah": 42,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+      "transliteration": "Allazeena sabaroo wa 'alaa Rabbihim yatawak kaloon",
+      "translations": {
+        "yusufali": "(They are) those who persevere in patience, and put their trust on their Lord.",
+        "pickthall": "Such as are steadfast and put their trust in Allah."
+      },
+      "url": "https://quran.com/16/42"
+    },
+    {
+      "ref": "16:43",
+      "surah": 16,
+      "ayah": 43,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِمْ ۚ فَسْـَٔلُوٓا۟ أَهْلَ ٱلذِّكْرِ إِن كُنتُمْ لَا تَعْلَمُونَ",
+      "transliteration": "Wa maaa arsalnaa min qablika illaa rijaalan nooheee ilaihim; fas'alooo ahlaz zikri in kuntum laa ta'lamoon",
+      "translations": {
+        "yusufali": "And before thee also the messengers We sent were but men, to whom We granted inspiration: if ye realise this not, ask of those who possess the Message.",
+        "pickthall": "And We sent not (as Our messengers) before thee other than men whom We inspired - Ask the followers of the Remembrance if ye know not! -"
+      },
+      "url": "https://quran.com/16/43"
+    },
+    {
+      "ref": "16:53",
+      "surah": 16,
+      "ayah": 53,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "وَمَا بِكُم مِّن نِّعْمَةٍ فَمِنَ ٱللَّهِ ۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيْهِ تَجْـَٔرُونَ",
+      "transliteration": "Wa maa bikum minni'matin faminal laahi summa izaa massakumud durru fa ilaihi taj'aroon",
+      "translations": {
+        "yusufali": "And ye have no good thing but is from Allah: and moreover, when ye are touched by distress, unto Him ye cry with groans;",
+        "pickthall": "And whatever of comfort ye enjoy, it is from Allah. Then, when misfortune reacheth you, unto Him ye cry for help."
+      },
+      "url": "https://quran.com/16/53"
+    },
+    {
+      "ref": "16:78",
+      "surah": 16,
+      "ayah": 78,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًٔا وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ",
+      "transliteration": "Wallaahu akhrajakum mim butooni ummahaatikum laa ta'lamoona shai'anw wa ja'ala lakumus sam'a wal absaara wal af'idata la'allakum tashkuroon",
+      "translations": {
+        "yusufali": "It is He Who brought you forth from the wombs of your mothers when ye knew nothing; and He gave you hearing and sight and intelligence and affections: that ye may give thanks (to Allah).",
+        "pickthall": "And Allah brought you forth from the wombs of your mothers knowing nothing, and gave you hearing and sight and hearts that haply ye might give thanks."
+      },
+      "url": "https://quran.com/16/78"
+    },
+    {
+      "ref": "16:83",
+      "surah": 16,
+      "ayah": 83,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "يَعْرِفُونَ نِعْمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكْثَرُهُمُ ٱلْكَـٰفِرُونَ",
+      "transliteration": "Ya'rifoona ni'matal laahi summa yunkiroonahaa wa aksaruhumul kaafiroon",
+      "translations": {
+        "yusufali": "They recognise the favours of Allah; then they deny them; and most of them are (creatures) ungrateful.",
+        "pickthall": "They know the favour of Allah and then deny it. Most of them are ingrates."
+      },
+      "url": "https://quran.com/16/83"
+    },
+    {
+      "ref": "16:90",
+      "surah": 16,
+      "ayah": 90,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَـٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+      "transliteration": "Innal laaha yaamaru bil 'adli wal ihsaani wa eetaaa'i zil qurbaa wa yanhaa 'anil fahshaaa'i wal munkari walbagh-i' ya'izukum la'allakum tazakkkaroon",
+      "translations": {
+        "yusufali": "Allah commands justice, the doing of good, and liberality to kith and kin, and He forbids all shameful deeds, and injustice and rebellion: He instructs you, that ye may receive admonition.",
+        "pickthall": "Lo! Allah enjoineth justice and kindness, and giving to kinsfolk, and forbiddeth lewdness and abomination and wickedness. He exhorteth you in order that ye may take heed."
+      },
+      "url": "https://quran.com/16/90"
+    },
+    {
+      "ref": "16:97",
+      "surah": 16,
+      "ayah": 97,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+      "transliteration": "Man 'amila saaliham min zakarin aw unsaa wa huwa mu'minun falanuhyiyannahoo hayaatan taiiyibatanw wa lanajzi yannnahum ajrahum bi ahsani maa kaanoo ya'maloon",
+      "translations": {
+        "yusufali": "Whoever works righteousness, man or woman, and has Faith, verily, to him will We give a new Life, a life that is good and pure and We will bestow on such their reward according to the best of their actions.",
+        "pickthall": "Whosoever doeth right, whether male or female, and is a believer, him verily we shall quicken with good life, and We shall pay them a recompense in proportion to the best of what they used to do."
+      },
+      "url": "https://quran.com/16/97"
+    },
+    {
+      "ref": "16:114",
+      "surah": 16,
+      "ayah": 114,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلًا طَيِّبًا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+      "transliteration": "Fakuloo mimmaa razaqa kumul laahu halaalan taiyibanw washkuroo ni'matal laahi in kuntum iyyaahu ta'budoon",
+      "translations": {
+        "yusufali": "So eat of the sustenance which Allah has provided for you, lawful and good; and be grateful for the favours of Allah, if it is He Whom ye serve.",
+        "pickthall": "So eat of the lawful and good food which Allah hath provided for you, and thank the bounty of your Lord if it is Him ye serve."
+      },
+      "url": "https://quran.com/16/114"
+    },
+    {
+      "ref": "16:127",
+      "surah": 16,
+      "ayah": 127,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "An-Nahl",
+      "surahNameArabic": "النحل",
+      "surahMeaning": "The Bee",
+      "revelation": "makkah",
+      "arabic": "وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ ۚ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا يَمْكُرُونَ",
+      "transliteration": "Wasbir wa maa sabruka illaa billaah; wa laa tahzan 'alaihim wa laa taku fee daiqim mimmaa yamkuroon",
+      "translations": {
+        "yusufali": "And do thou be patient, for thy patience is but from Allah; nor grieve over them: and distress not thyself because of their plots.",
+        "pickthall": "Endure thou patiently (O Muhammad). Thine endurance is only by (the help of) Allah. Grieve not for them, and be not in distress because of that which they devise."
+      },
+      "url": "https://quran.com/16/127"
+    },
+    {
+      "ref": "17:23",
+      "surah": 17,
+      "ayah": 23,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Isra",
+      "surahNameArabic": "الإسراء",
+      "surahMeaning": "The Night Journey",
+      "revelation": "makkah",
+      "arabic": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا",
+      "transliteration": "Wa qadaa Rabbuka allaa ta'budooo illaaa iyyaahu wa bilwaalidaini ihsaanaa; immaa yablughanna 'indakal kibara ahaduhumaaa aw kilaahumaa falaa taqul lahumaaa uffinw wa laa tanharhumaa wa qullahumaa qawlan kareemaa",
+      "translations": {
+        "yusufali": "Thy Lord hath decreed that ye worship none but Him, and that ye be kind to parents. Whether one or both of them attain old age in thy life, say not to them a word of contempt, nor repel them, but address them in terms of honour.",
+        "pickthall": "Thy Lord hath decreed, that ye worship none save Him, and (that ye show) kindness to parents. If one of them or both of them attain old age with thee, say not \"Fie\" unto them nor repulse them, but speak unto them a gracious word."
+      },
+      "url": "https://quran.com/17/23"
+    },
+    {
+      "ref": "17:24",
+      "surah": 17,
+      "ayah": 24,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Isra",
+      "surahNameArabic": "الإسراء",
+      "surahMeaning": "The Night Journey",
+      "revelation": "makkah",
+      "arabic": "وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا",
+      "transliteration": "Wakhfid lahumaa janaahaz zulli minar rahmati wa qur Rabbir hamhumaa kamaa rabbayaanee sagheera",
+      "translations": {
+        "yusufali": "And, out of kindness, lower to them the wing of humility, and say: \"My Lord! bestow on them thy Mercy even as they cherished me in childhood.\"",
+        "pickthall": "And lower unto them the wing of submission through mercy, and say: My Lord! Have mercy on them both as they did care for me when I was little."
+      },
+      "url": "https://quran.com/17/24"
+    },
+    {
+      "ref": "17:36",
+      "surah": 17,
+      "ayah": 36,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Isra",
+      "surahNameArabic": "الإسراء",
+      "surahMeaning": "The Night Journey",
+      "revelation": "makkah",
+      "arabic": "وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ ۚ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَـٰٓئِكَ كَانَ عَنْهُ مَسْـُٔولًا",
+      "transliteration": "Wa laa taqfu maa laisa laka bihee 'ilm; innas sam'a walbasara walfu'aada kullu ulaaa'ika kaana 'anhu mas'oolaa",
+      "translations": {
+        "yusufali": "And pursue not that of which thou hast no knowledge; for every act of hearing, or of seeing or of (feeling in) the heart will be enquired into (on the Day of Reckoning).",
+        "pickthall": "(O man), follow not that whereof thou hast no knowledge. Lo! the hearing and the sight and the heart - of each of these it will be asked."
+      },
+      "url": "https://quran.com/17/36"
+    },
+    {
+      "ref": "17:85",
+      "surah": 17,
+      "ayah": 85,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Isra",
+      "surahNameArabic": "الإسراء",
+      "surahMeaning": "The Night Journey",
+      "revelation": "makkah",
+      "arabic": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+      "transliteration": "Wa yas'aloonaka 'anirrooh; qulir roohu min amri rabbee wa maaa ooteetum minal 'ilmi illaa qaleelaa",
+      "translations": {
+        "yusufali": "They ask thee concerning the Spirit (of inspiration). Say: \"The Spirit (cometh) by command of my Lord: of knowledge it is only a little that is communicated to you, (O men!)\"",
+        "pickthall": "They are asking thee concerning the Spirit. Say: The Spirit is by command of my Lord, and of knowledge ye have been vouchsafed but little."
+      },
+      "url": "https://quran.com/17/85"
+    },
+    {
+      "ref": "18:109",
+      "surah": 18,
+      "ayah": 109,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Kahf",
+      "surahNameArabic": "الكهف",
+      "surahMeaning": "The Cave",
+      "revelation": "makkah",
+      "arabic": "قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًا لِّكَلِمَـٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَـٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًا",
+      "transliteration": "Qul law kaanal bahru midaadal lik Kalimaati Rabbee lanafidal bahru qabla an tanfada Kalimaatu Rabbee wa law ji'naa bimislihee madadaa",
+      "translations": {
+        "yusufali": "Say: \"If the ocean were ink (wherewith to write out) the words of my Lord, sooner would the ocean be exhausted than would the words of my Lord, even if we added another ocean like it, for its aid.\"",
+        "pickthall": "Say: Though the sea became ink for the Words of my Lord, verily the sea would be used up before the words of my Lord were exhausted, even though We brought the like thereof to help."
+      },
+      "url": "https://quran.com/18/109"
+    },
+    {
+      "ref": "20:114",
+      "surah": 20,
+      "ayah": 114,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Taha",
+      "surahNameArabic": "طه",
+      "surahMeaning": "Ta-Ha",
+      "revelation": "makkah",
+      "arabic": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+      "transliteration": "Fata'aalal laahul Malikul Haqq; wa laa ta'jal bil Quraani min qabli ai yuqdaaa ilaika wahyuhoo wa qur Rabbi zidnee 'ilmaa",
+      "translations": {
+        "yusufali": "High above all is Allah, the King, the Truth! Be not in haste with the Qur'an before its revelation to thee is completed, but say, \"O my Lord! advance me in knowledge.\"",
+        "pickthall": "Then exalted be Allah, the True King! And hasten not (O Muhammad) with the Qur'an ere its revelation hath been perfected unto thee, and say: My Lord! Increase me in knowledge."
+      },
+      "url": "https://quran.com/20/114"
+    },
+    {
+      "ref": "23:78",
+      "surah": 23,
+      "ayah": 78,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-Mu'minun",
+      "surahNameArabic": "المؤمنون",
+      "surahMeaning": "The Believers",
+      "revelation": "makkah",
+      "arabic": "وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+      "transliteration": "Wa Huwal lazeee ansha a-lakumus sam'a wal absaara wal af'idah; qaleelam maa tashkuroon",
+      "translations": {
+        "yusufali": "It is He Who has created for you (the faculties of) hearing, sight, feeling and understanding: little thanks it is ye give!",
+        "pickthall": "He it is Who hath created for you ears and eyes and hearts. Small thanks give ye!"
+      },
+      "url": "https://quran.com/23/78"
+    },
+    {
+      "ref": "25:58",
+      "surah": 25,
+      "ayah": 58,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Furqan",
+      "surahNameArabic": "الفرقان",
+      "surahMeaning": "The Criterion",
+      "revelation": "makkah",
+      "arabic": "وَتَوَكَّلْ عَلَى ٱلْحَىِّ ٱلَّذِى لَا يَمُوتُ وَسَبِّحْ بِحَمْدِهِۦ ۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+      "transliteration": "Wa tawakkal 'alal Haiyil lazee laa yamootu wa sabbih bihamdih; wa kafaa bihee bizunoobi 'ibaadihee khabeeraa",
+      "translations": {
+        "yusufali": "And put thy trust in Him Who lives and dies not; and celebrate his praise; and enough is He to be acquainted with the faults of His servants;-",
+        "pickthall": "And trust thou in the Living One Who dieth not, and hymn His praise. He sufficeth as the Knower of His bondmen's sins,"
+      },
+      "url": "https://quran.com/25/58"
+    },
+    {
+      "ref": "25:63",
+      "surah": 25,
+      "ayah": 63,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Furqan",
+      "surahNameArabic": "الفرقان",
+      "surahMeaning": "The Criterion",
+      "revelation": "makkah",
+      "arabic": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+      "transliteration": "Wa 'ibaadur Rahmaanil lazeena yamshoona 'alal ardi hawnanw wa izaa khaata bahumul jaahiloona qaaloo salaamaa",
+      "translations": {
+        "yusufali": "And the servants of (Allah) Most Gracious are those who walk on the earth in humility, and when the ignorant address them, they say, \"Peace!\";",
+        "pickthall": "The (faithful) slaves of the Beneficent are they who walk upon the earth modestly, and when the foolish ones address them answer: Peace;"
+      },
+      "url": "https://quran.com/25/63"
+    },
+    {
+      "ref": "25:75",
+      "surah": 25,
+      "ayah": 75,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Furqan",
+      "surahNameArabic": "الفرقان",
+      "surahMeaning": "The Criterion",
+      "revelation": "makkah",
+      "arabic": "أُو۟لَـٰٓئِكَ يُجْزَوْنَ ٱلْغُرْفَةَ بِمَا صَبَرُوا۟ وَيُلَقَّوْنَ فِيهَا تَحِيَّةً وَسَلَـٰمًا",
+      "transliteration": "Ulaaa'ika yujzawnal ghurfata bimaa sabaroo wa yulaqqawna feehaa tahiyyatanw wa salaamaa",
+      "translations": {
+        "yusufali": "Those are the ones who will be rewarded with the highest place in heaven, because of their patient constancy: therein shall they be met with salutations and peace,",
+        "pickthall": "They will be awarded the high place forasmuch as they were steadfast, and they will meet therein with welcome and the ward of peace,"
+      },
+      "url": "https://quran.com/25/75"
+    },
+    {
+      "ref": "26:217",
+      "surah": 26,
+      "ayah": 217,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ash-Shu'ara",
+      "surahNameArabic": "الشعراء",
+      "surahMeaning": "The Poets",
+      "revelation": "makkah",
+      "arabic": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "transliteration": "Wa tawakkal alal 'Azeezir Raheem",
+      "translations": {
+        "yusufali": "And put thy trust on the Exalted in Might, the Merciful,-",
+        "pickthall": "And put thy trust in the Mighty, the Merciful."
+      },
+      "url": "https://quran.com/26/217"
+    },
+    {
+      "ref": "27:19",
+      "surah": 27,
+      "ayah": 19,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Naml",
+      "surahNameArabic": "النمل",
+      "surahMeaning": "The Ant",
+      "revelation": "makkah",
+      "arabic": "فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَـٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّـٰلِحِينَ",
+      "transliteration": "Fatabassama daahikam min qawlihaa wa qaala Rabbi awzi'nee an ashkura ni'mata kal lateee an'amta 'alaiya wa 'alaa waalidaiya wa an a'mala saalihan tardaahu wa adkhilnee birahmatika fee 'ibaadikas saaliheen",
+      "translations": {
+        "yusufali": "So he smiled, amused at her speech; and he said: \"O my Lord! so order me that I may be grateful for Thy favours, which thou hast bestowed on me and on my parents, and that I may work the righteousness that will please Thee: And admit me, by Thy Grace, to the ranks of Thy righteous Servants.\"",
+        "pickthall": "And (Solomon) smiled, laughing at her speech, and said: My Lord, arouse me to be thankful for Thy favour wherewith Thou hast favoured me and my parents, and to do good that shall be pleasing unto Thee, and include me in (the number of) Thy righteous slaves."
+      },
+      "url": "https://quran.com/27/19"
+    },
+    {
+      "ref": "27:40",
+      "surah": 27,
+      "ayah": 40,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "An-Naml",
+      "surahNameArabic": "النمل",
+      "surahMeaning": "The Ant",
+      "revelation": "makkah",
+      "arabic": "قَالَ ٱلَّذِى عِندَهُۥ عِلْمٌ مِّنَ ٱلْكِتَـٰبِ أَنَا۠ ءَاتِيكَ بِهِۦ قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ ۚ فَلَمَّا رَءَاهُ مُسْتَقِرًّا عِندَهُۥ قَالَ هَـٰذَا مِن فَضْلِ رَبِّى لِيَبْلُوَنِىٓ ءَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّى غَنِىٌّ كَرِيمٌ",
+      "transliteration": "Qaalal lazee indahoo 'ilmum minal Kitaabi ana aateeka bihee qabla ai yartadda ilaika tarfuk; falammaa ra aahu mustaqirran 'indahoo qaala haazaa min fadli Rabbee li yabluwaneee 'a-ashkuru am akfuru wa man shakara fa innamaa yashkuru linafsihee wa man kafara fa inna Rabbee Ghaniyyun Kareem",
+      "translations": {
+        "yusufali": "Said one who had knowledge of the Book: \"I will bring it to thee within the twinkling of an eye!\" Then when (Solomon) saw it placed firmly before him, he said: \"This is by the Grace of my Lord!- to test me whether I am grateful or ungrateful! and if any is grateful, truly his gratitude is (a gain) for his own soul; but if any is ungrateful, truly my Lord is Free of all Needs, Supreme in Honour!\"",
+        "pickthall": "One with whom was knowledge of the Scripture said: I will bring it thee before thy gaze returneth unto thee. And when he saw it set in his presence, (Solomon) said: This is of the bounty of my Lord, that He may try me whether I give thanks or am ungrateful. Whosoever giveth thanks he only giveth thanks for (the good of) his own soul; and whosoever is ungrateful (is ungrateful only to his own soul's hurt). For lo! my Lord is Absolute in independence, Bountiful."
+      },
+      "url": "https://quran.com/27/40"
+    },
+    {
+      "ref": "27:79",
+      "surah": 27,
+      "ayah": 79,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "An-Naml",
+      "surahNameArabic": "النمل",
+      "surahMeaning": "The Ant",
+      "revelation": "makkah",
+      "arabic": "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ إِنَّكَ عَلَى ٱلْحَقِّ ٱلْمُبِينِ",
+      "transliteration": "Fatawakkal 'alal laahi innaka 'alal haqqil mubeen",
+      "translations": {
+        "yusufali": "So put thy trust in Allah: for thou art on (the path of) manifest Truth.",
+        "pickthall": "Therefor (O Muhammad) put thy trust in Allah, for thou (standest) on the plain Truth."
+      },
+      "url": "https://quran.com/27/79"
+    },
+    {
+      "ref": "28:77",
+      "surah": 28,
+      "ayah": 77,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Qasas",
+      "surahNameArabic": "القصص",
+      "surahMeaning": "The Stories",
+      "revelation": "makkah",
+      "arabic": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْـَٔاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+      "transliteration": "Wabtaghi feemaaa aataakal laahud Daaral Aakhirata wa laa tansa naseebaka minad dunyaa wa ahsin kamaaa ahsanal laahu ilaika wa laa tabghil fasaada fil ardi innal laaha laa yuhibbul mufsideen",
+      "translations": {
+        "yusufali": "\"But seek, with the (wealth) which Allah has bestowed on thee, the Home of the Hereafter, nor forget thy portion in this world: but do thou good, as Allah has been good to thee, and seek not (occasions for) mischief in the land: for Allah loves not those who do mischief.\"",
+        "pickthall": "But seek the abode of the Hereafter in that which Allah hath given thee and neglect not thy portion of the world, and be thou kind even as Allah hath been kind to thee, and seek not corruption in the earth; lo! Allah loveth not corrupters,"
+      },
+      "url": "https://quran.com/28/77"
+    },
+    {
+      "ref": "28:80",
+      "surah": 28,
+      "ayah": 80,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Qasas",
+      "surahNameArabic": "القصص",
+      "surahMeaning": "The Stories",
+      "revelation": "makkah",
+      "arabic": "وَقَالَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ وَيْلَكُمْ ثَوَابُ ٱللَّهِ خَيْرٌ لِّمَنْ ءَامَنَ وَعَمِلَ صَـٰلِحًا وَلَا يُلَقَّىٰهَآ إِلَّا ٱلصَّـٰبِرُونَ",
+      "transliteration": "Wa qaalal lazeena ootul 'ilma wailakum sawaabul laahi khairul liman aamana wa 'amila saalihaa; wa laa yulaq qaahaaa illas saabiroon",
+      "translations": {
+        "yusufali": "But those who had been granted (true) knowledge said: \"Alas for you! The reward of Allah (in the Hereafter) is best for those who believe and work righteousness: but this none shall attain, save those who steadfastly persevere (in good).\"",
+        "pickthall": "But those who had been given knowledge said: Woe unto you! The reward of Allah for him who believeth and doeth right is better, and only the steadfast will obtain it."
+      },
+      "url": "https://quran.com/28/80"
+    },
+    {
+      "ref": "29:43",
+      "surah": 29,
+      "ayah": 43,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-'Ankabut",
+      "surahNameArabic": "العنكبوت",
+      "surahMeaning": "The Spider",
+      "revelation": "makkah",
+      "arabic": "وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَآ إِلَّا ٱلْعَـٰلِمُونَ",
+      "transliteration": "Wa tilkal amsaalu nadribuhaa linnaasi wa maa ya'qiluhaaa illal 'aalimoon",
+      "translations": {
+        "yusufali": "And such are the Parables We set forth for mankind, but only those understand them who have knowledge.",
+        "pickthall": "As for these similitudes, We coin them for mankind, but none will grasp their meaning save the wise."
+      },
+      "url": "https://quran.com/29/43"
+    },
+    {
+      "ref": "29:60",
+      "surah": 29,
+      "ayah": 60,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-'Ankabut",
+      "surahNameArabic": "العنكبوت",
+      "surahMeaning": "The Spider",
+      "revelation": "makkah",
+      "arabic": "وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transliteration": "Wa ka ayyim min daaabbatil laa tahmilu riqqahaa; al laahu yarzuquhaa wa iyyaakum; wa Huwas Samee'ul Aleem",
+      "translations": {
+        "yusufali": "How many are the creatures that carry not their own sustenance? It is Allah who feeds (both) them and you: for He hears and knows (all things).",
+        "pickthall": "And how many an animal there is that beareth not its own provision! Allah provideth for it and for you. He is the Hearer, the Knower."
+      },
+      "url": "https://quran.com/29/60"
+    },
+    {
+      "ref": "29:69",
+      "surah": 29,
+      "ayah": 69,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-'Ankabut",
+      "surahNameArabic": "العنكبوت",
+      "surahMeaning": "The Spider",
+      "revelation": "makkah",
+      "arabic": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+      "transliteration": "Wallazeena jaahadoo feenaa lanahdiyannahum subulana; wa innal laaha lama'al muhsineen",
+      "translations": {
+        "yusufali": "And those who strive in Our (cause),- We will certainly guide them to our Paths: For verily Allah is with those who do right.",
+        "pickthall": "As for those who strive in Us, We surely guide them to Our paths, and lo! Allah is with the good."
+      },
+      "url": "https://quran.com/29/69"
+    },
+    {
+      "ref": "31:12",
+      "surah": 31,
+      "ayah": 12,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Luqman",
+      "surahNameArabic": "لقمان",
+      "surahMeaning": "Luqman",
+      "revelation": "makkah",
+      "arabic": "وَلَقَدْ ءَاتَيْنَا لُقْمَـٰنَ ٱلْحِكْمَةَ أَنِ ٱشْكُرْ لِلَّهِ ۚ وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِۦ ۖ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ حَمِيدٌ",
+      "transliteration": "Wa laqad aatainaa Luqmaanal hikmata anishkur lillaah; wa many yashkur fa innamaa yashkuru linafsihee wa man kafara fa innal laaha Ghaniyyun Hameed",
+      "translations": {
+        "yusufali": "we bestowed (in the past) Wisdom on Luqman: \"Show (thy) gratitude to Allah.\" Any who is (so) grateful does so to the profit of his own soul: but if any is ungrateful, verily Allah is free of all wants, Worthy of all praise.",
+        "pickthall": "And verily We gave Luqman wisdom, saying: Give thanks unto Allah; and whosoever giveth thanks, he giveth thanks for (the good of) his soul. And whosoever refuseth - Lo! Allah is Absolute, Owner of Praise."
+      },
+      "url": "https://quran.com/31/12"
+    },
+    {
+      "ref": "31:14",
+      "surah": 31,
+      "ayah": 14,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Luqman",
+      "surahNameArabic": "لقمان",
+      "surahMeaning": "Luqman",
+      "revelation": "makkah",
+      "arabic": "وَوَصَّيْنَا ٱلْإِنسَـٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَـٰلُهُۥ فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ",
+      "transliteration": "Wa wassainal bi waalidaihi hamalat hu ummuhoo wahnan 'alaa wahninw wa fisaaluhoo fee 'aamaini anishkur lee wa liwaalidaika ilaiyal maseer",
+      "translations": {
+        "yusufali": "And We have enjoined on man (to be good) to his parents: in travail upon travail did his mother bear him, and in years twain was his weaning: (hear the command), \"Show gratitude to Me and to thy parents: to Me is (thy final) Goal.",
+        "pickthall": "And We have enjoined upon man concerning his parents - His mother beareth him in weakness upon weakness, and his weaning is in two years - Give thanks unto Me and unto thy parents. Unto Me is the journeying"
+      },
+      "url": "https://quran.com/31/14"
+    },
+    {
+      "ref": "31:27",
+      "surah": 31,
+      "ayah": 27,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Luqman",
+      "surahNameArabic": "لقمان",
+      "surahMeaning": "Luqman",
+      "revelation": "makkah",
+      "arabic": "وَلَوْ أَنَّمَا فِى ٱلْأَرْضِ مِن شَجَرَةٍ أَقْلَـٰمٌ وَٱلْبَحْرُ يَمُدُّهُۥ مِنۢ بَعْدِهِۦ سَبْعَةُ أَبْحُرٍ مَّا نَفِدَتْ كَلِمَـٰتُ ٱللَّهِ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+      "transliteration": "Wa law annamaa fil ardi min shajaratin aqlaamunw wal bahru yamudduhoo mim ba'dihee sab'atu abhurim maa nafidat Kalimaatul laah; innal laaha 'azeezun Hakeem",
+      "translations": {
+        "yusufali": "And if all the trees on earth were pens and the ocean (were ink), with seven oceans behind it to add to its (supply), yet would not the words of Allah be exhausted (in the writing): for Allah is Exalted in Power, full of Wisdom.",
+        "pickthall": "And if all the trees in the earth were pens, and the sea, with seven more seas to help it, (were ink), the words of Allah could not be exhausted. Lo! Allah is Mighty, Wise."
+      },
+      "url": "https://quran.com/31/27"
+    },
+    {
+      "ref": "32:9",
+      "surah": 32,
+      "ayah": 9,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "As-Sajdah",
+      "surahNameArabic": "السجدة",
+      "surahMeaning": "The Prostration",
+      "revelation": "makkah",
+      "arabic": "ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ ۖ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۚ قَلِيلًا مَّا تَشْكُرُونَ",
+      "transliteration": "Thumma sawwaahu wa nafakha feehi mir roohihih; wa ja'ala lakumus sam'a wal-absaara wal-af'idah; taqaleelam maa tashkuroon",
+      "translations": {
+        "yusufali": "But He fashioned him in due proportion, and breathed into him something of His spirit. And He gave you (the faculties of) hearing and sight and feeling (and understanding): little thanks do ye give!",
+        "pickthall": "Then He fashioned him and breathed into him of His Spirit; and appointed for you hearing and sight and hearts. Small thanks give ye!"
+      },
+      "url": "https://quran.com/32/9"
+    },
+    {
+      "ref": "32:24",
+      "surah": 32,
+      "ayah": 24,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "As-Sajdah",
+      "surahNameArabic": "السجدة",
+      "surahMeaning": "The Prostration",
+      "revelation": "makkah",
+      "arabic": "وَجَعَلْنَا مِنْهُمْ أَئِمَّةً يَهْدُونَ بِأَمْرِنَا لَمَّا صَبَرُوا۟ ۖ وَكَانُوا۟ بِـَٔايَـٰتِنَا يُوقِنُونَ",
+      "transliteration": "Wa ja'alnaa minhum a'immatany yahdoona bi amrinaa lammaa sabaroo wa kaanoo bi aayaatinaa yooqinoon",
+      "translations": {
+        "yusufali": "And We appointed, from among them, leaders, giving guidance under Our command, so long as they persevered with patience and continued to have faith in Our Signs.",
+        "pickthall": "And when they became steadfast and believed firmly in Our revelations, We appointed from among them leaders who guided by Our command."
+      },
+      "url": "https://quran.com/32/24"
+    },
+    {
+      "ref": "33:3",
+      "surah": 33,
+      "ayah": 3,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Ahzab",
+      "surahNameArabic": "الأحزاب",
+      "surahMeaning": "The Combined Forces",
+      "revelation": "madinah",
+      "arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "transliteration": "Wa tawakkal 'alal laah; wa kafaa billaahi Wakeelaa",
+      "translations": {
+        "yusufali": "And put thy trust in Allah, and enough is Allah as a disposer of affairs.",
+        "pickthall": "And put thy trust in Allah, for Allah is sufficient as Trustee."
+      },
+      "url": "https://quran.com/33/3"
+    },
+    {
+      "ref": "34:13",
+      "surah": 34,
+      "ayah": 13,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Saba",
+      "surahNameArabic": "سبإ",
+      "surahMeaning": "Sheba",
+      "revelation": "makkah",
+      "arabic": "يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَـٰرِيبَ وَتَمَـٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَـٰتٍ ۚ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا ۚ وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ",
+      "transliteration": "Ya'maloona lahoo ma yashaaa'u mim mahaareeba wa tamaaseela wa jifaanin kaljawaabi wa qudoorir raasiyaat; i'maloo aala Daawooda shukraa; wa qaleelum min 'ibaadiyash shakoor",
+      "translations": {
+        "yusufali": "They worked for him as he desired, (making) arches, images, basons as large as reservoirs, and (cooking) cauldrons fixed (in their places): \"Work ye, sons of David, with thanks! but few of My servants are grateful!\"",
+        "pickthall": "They made for him what he willed: synagogues and statues, basins like wells and boilers built into the ground. Give thanks, O House of David! Few of My bondmen are thankful."
+      },
+      "url": "https://quran.com/34/13"
+    },
+    {
+      "ref": "35:12",
+      "surah": 35,
+      "ayah": 12,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Fatir",
+      "surahNameArabic": "فاطر",
+      "surahMeaning": "Originator",
+      "revelation": "makkah",
+      "arabic": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَـٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَـٰذَا مِلْحٌ أُجَاجٌ ۖ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا ۖ وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+      "transliteration": "Wa maa yastawil bahraani haaza 'azbun furaatun saaa'ighun sharaabuhoo wa haazaa milhun ujaaj; wa min kullin taakuloona lahman tariyyanw wa tastakhrijoona hilyatan talbasoonahaa wa taral fulka feehi mawaakhira litabtaghoo min fadlihee wa la'allakm tashkuroon",
+      "translations": {
+        "yusufali": "Nor are the two bodies of flowing water alike,- the one palatable, sweet, and pleasant to drink, and the other, salt and bitter. Yet from each (kind of water) do ye eat flesh fresh and tender, and ye extract ornaments to wear; and thou seest the ships therein that plough the waves, that ye may seek (thus) of the Bounty of Allah that ye may be grateful.",
+        "pickthall": "And the two seas are not alike: this, fresh, sweet, good to drink, this (other) bitter, salt. And from them both ye eat fresh meat and derive the ornament that ye wear. And thou seest the ship cleaving them with its prow that ye may seek of His bounty, and that haply ye may give thanks."
+      },
+      "url": "https://quran.com/35/12"
+    },
+    {
+      "ref": "35:28",
+      "surah": 35,
+      "ayah": 28,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Fatir",
+      "surahNameArabic": "فاطر",
+      "surahMeaning": "Originator",
+      "revelation": "makkah",
+      "arabic": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَـٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَـٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+      "transliteration": "Wa minan naasi wadda waaabbi wal an'aami mukhtalifun alwaanuhoo kazalik; innamaa yakhshal laaha min 'ibaadihil 'ulamaaa'; innal laaha 'Azeezun Ghafoor",
+      "translations": {
+        "yusufali": "And so amongst men and crawling creatures and cattle, are they of various colours. Those truly fear Allah, among His Servants, who have knowledge: for Allah is Exalted in Might, Oft-Forgiving.",
+        "pickthall": "And of men and beasts and cattle, in like manner, divers hues? The erudite among His bondmen fear Allah alone. Lo! Allah is Mighty, Forgiving."
+      },
+      "url": "https://quran.com/35/28"
+    },
+    {
+      "ref": "36:35",
+      "surah": 36,
+      "ayah": 35,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Ya-Sin",
+      "surahNameArabic": "يس",
+      "surahMeaning": "Ya Sin",
+      "revelation": "makkah",
+      "arabic": "لِيَأْكُلُوا۟ مِن ثَمَرِهِۦ وَمَا عَمِلَتْهُ أَيْدِيهِمْ ۖ أَفَلَا يَشْكُرُونَ",
+      "transliteration": "Liyaakuloo min samarihee wa maa 'amilat-hu aideehim; afalaa yashkuroon",
+      "translations": {
+        "yusufali": "That they may enjoy the fruits of this (artistry): It was not their hands that made this: will they not then give thanks?",
+        "pickthall": "That they may eat of the fruit thereof, and their hands made it not. Will they not, then, give thanks?"
+      },
+      "url": "https://quran.com/36/35"
+    },
+    {
+      "ref": "39:9",
+      "surah": 39,
+      "ayah": 9,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Az-Zumar",
+      "surahNameArabic": "الزمر",
+      "surahMeaning": "The Troops",
+      "revelation": "makkah",
+      "arabic": "أَمَّنْ هُوَ قَـٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْـَٔاخِرَةَ وَيَرْجُوا۟ رَحْمَةَ رَبِّهِۦ ۗ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ ۗ إِنَّمَا يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَـٰبِ",
+      "transliteration": "Amman huwa qaanitun aanaaa'al laili saajidanw wa qaaa'imai yahzarul Aakhirata wa yarjoo rahmata Rabbih; qul hal yastawil lazeena ya'lamoona wallazeena laa ya'lamoon; innamaa yatazakkaru ulul albaab",
+      "translations": {
+        "yusufali": "Is one who worships devoutly during the hour of the night prostrating himself or standing (in adoration), who takes heed of the Hereafter, and who places his hope in the Mercy of his Lord - (like one who does not)? Say: \"Are those equal, those who know and those who do not know? It is those who are endued with understanding that receive admonition.",
+        "pickthall": "Is he who payeth adoration in the watches of the night, prostrate and standing, bewaring of the Hereafter and hoping for the mercy of his Lord, (to be accounted equal with a disbeliever)? Say (unto them, O Muhammad): Are those who know equal with those who know not? But only men of understanding will pay heed."
+      },
+      "url": "https://quran.com/39/9"
+    },
+    {
+      "ref": "39:10",
+      "surah": 39,
+      "ayah": 10,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Az-Zumar",
+      "surahNameArabic": "الزمر",
+      "surahMeaning": "The Troops",
+      "revelation": "makkah",
+      "arabic": "قُلْ يَـٰعِبَادِ ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا۟ فِى هَـٰذِهِ ٱلدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ ٱللَّهِ وَٰسِعَةٌ ۗ إِنَّمَا يُوَفَّى ٱلصَّـٰبِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+      "transliteration": "Qul yaa 'ibaadil lazeena aamanut taqoo Rabbakum; lillazeena ahsanoo fee haazihid dunyaa hasanah; wa ardul laahi waasi'ah; innamaa yuwaffas saabiroona ajrahum bighayri hisab",
+      "translations": {
+        "yusufali": "Say: \"O ye my servants who believe! Fear your Lord, good is (the reward) for those who do good in this world. Spacious is Allah's earth! those who patiently persevere will truly receive a reward without measure!\"",
+        "pickthall": "Say: O My bondmen who believe! Observe your duty to your Lord. For those who do good in this world there is good, and Allah's earth is spacious. Verily the steadfast will be paid their wages without stint."
+      },
+      "url": "https://quran.com/39/10"
+    },
+    {
+      "ref": "39:38",
+      "surah": 39,
+      "ayah": 38,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Az-Zumar",
+      "surahNameArabic": "الزمر",
+      "surahMeaning": "The Troops",
+      "revelation": "makkah",
+      "arabic": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ ٱللَّهُ ۚ قُلْ أَفَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ إِنْ أَرَادَنِىَ ٱللَّهُ بِضُرٍّ هَلْ هُنَّ كَـٰشِفَـٰتُ ضُرِّهِۦٓ أَوْ أَرَادَنِى بِرَحْمَةٍ هَلْ هُنَّ مُمْسِكَـٰتُ رَحْمَتِهِۦ ۚ قُلْ حَسْبِىَ ٱللَّهُ ۖ عَلَيْهِ يَتَوَكَّلُ ٱلْمُتَوَكِّلُونَ",
+      "transliteration": "Wa la'in sa altahum man khalaqas samaawaati wal arda la yaqoolunal laah; qul afara'aitum maa tad'oona min doonil laahi in araadaniyal laahu bidurrin hal hunna kaashi faatu durriheee aw araadanee birahmatin hal hunna mumsikaatu rahmatih; qul hasbiyal laahu 'alaihi tatawakkalul mutawakkiloon",
+      "translations": {
+        "yusufali": "If indeed thou ask them who it is that created the heavens and the earth, they would be sure to say, \"Allah\". Say: \"See ye then? the things that ye invoke besides Allah,- can they, if Allah wills some Penalty for me, remove His Penalty?- Or if He wills some Grace for me, can they keep back his Grace?\" Say: \"Sufficient is Allah for me! In Him trust those who put their trust.\"",
+        "pickthall": "And verily, if thou shouldst ask them: Who created the heavens and the earth? they will say: Allah. Say: Bethink you then of those ye worship beside Allah, if Allah willed some hurt for me, could they remove from me His hurt; or if He willed some mercy for me, could they restrain His mercy? Say: Allah is my all. In Him do (all) the trusting put their trust."
+      },
+      "url": "https://quran.com/39/38"
+    },
+    {
+      "ref": "39:66",
+      "surah": 39,
+      "ayah": 66,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Az-Zumar",
+      "surahNameArabic": "الزمر",
+      "surahMeaning": "The Troops",
+      "revelation": "makkah",
+      "arabic": "بَلِ ٱللَّهَ فَٱعْبُدْ وَكُن مِّنَ ٱلشَّـٰكِرِينَ",
+      "transliteration": "Balil laahha fa'bud wa kum minash shaakireen",
+      "translations": {
+        "yusufali": "Nay, but worship Allah, and be of those who give thanks.",
+        "pickthall": "Nay, but Allah must thou serve, and be among the thankful!"
+      },
+      "url": "https://quran.com/39/66"
+    },
+    {
+      "ref": "40:44",
+      "surah": 40,
+      "ayah": 44,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Ghafir",
+      "surahNameArabic": "غافر",
+      "surahMeaning": "The Forgiver",
+      "revelation": "makkah",
+      "arabic": "فَسَتَذْكُرُونَ مَآ أَقُولُ لَكُمْ ۚ وَأُفَوِّضُ أَمْرِىٓ إِلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "transliteration": "Fasatazkuroona maaa aqoolu lakum; wa ufawwidu amreee ilal laah; innallaaha baseerum bil'ibaad",
+      "translations": {
+        "yusufali": "\"Soon will ye remember what I say to you (now), My (own) affair I commit to Allah: for Allah (ever) watches over His Servants.\"",
+        "pickthall": "And ye will remember what I say unto you. I confide my cause unto Allah. Lo! Allah is Seer of (His) slaves."
+      },
+      "url": "https://quran.com/40/44"
+    },
+    {
+      "ref": "40:64",
+      "surah": 40,
+      "ayah": 64,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Ghafir",
+      "surahNameArabic": "غافر",
+      "surahMeaning": "The Forgiver",
+      "revelation": "makkah",
+      "arabic": "ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ قَرَارًا وَٱلسَّمَآءَ بِنَآءً وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَـٰتِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ ۖ فَتَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "transliteration": "Allaahul lazee ja'ala lakumul arda qaraaranw wassa maaa'a binaaa'anw wa sawwarakum fa ahsana suwarakum wa razaqakum minat taiyibaat; zaalikumul laahu Rabbukum fatabaarakal laahu Rabbul 'aalameen",
+      "translations": {
+        "yusufali": "It is Allah Who has made for you the earth as a resting place, and the sky as a canopy, and has given you shape- and made your shapes beautiful,- and has provided for you Sustenance, of things pure and good;- such is Allah your Lord. So Glory to Allah, the Lord of the Worlds!",
+        "pickthall": "Allah it is Who appointed for you the earth for a dwelling-place and the sky for a canopy, and fashioned you and perfected your shapes, and hath provided you with good things. Such is Allah, your Lord. Then blessed be Allah, the Lord of the Worlds!"
+      },
+      "url": "https://quran.com/40/64"
+    },
+    {
+      "ref": "41:34",
+      "surah": 41,
+      "ayah": 34,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Fussilat",
+      "surahNameArabic": "فصلت",
+      "surahMeaning": "Explained in Detail",
+      "revelation": "makkah",
+      "arabic": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ",
+      "transliteration": "Wa laa tastawil hasanatu wa las saiyi'ah; idfa' billatee hiya ahsanu fa'izal lazee bainaka wa bainahoo 'adaawatun ka'annahoo waliyun hameem",
+      "translations": {
+        "yusufali": "Nor can goodness and Evil be equal. Repel (Evil) with what is better: Then will he between whom and thee was hatred become as it were thy friend and intimate!",
+        "pickthall": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend."
+      },
+      "url": "https://quran.com/41/34"
+    },
+    {
+      "ref": "41:35",
+      "surah": 41,
+      "ayah": 35,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Fussilat",
+      "surahNameArabic": "فصلت",
+      "surahMeaning": "Explained in Detail",
+      "revelation": "makkah",
+      "arabic": "وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ",
+      "transliteration": "Wa maa yulaqqaahaaa illal lazeena sabaroo wa maa yulaqqaahaaa illaa zoo hazzin 'azeem",
+      "translations": {
+        "yusufali": "And no one will be granted such goodness except those who exercise patience and self-restraint,- none but persons of the greatest good fortune.",
+        "pickthall": "But none is granted it save those who are steadfast, and none is granted it save the owner of great happiness."
+      },
+      "url": "https://quran.com/41/35"
+    },
+    {
+      "ref": "41:53",
+      "surah": 41,
+      "ayah": 53,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Fussilat",
+      "surahNameArabic": "فصلت",
+      "surahMeaning": "Explained in Detail",
+      "revelation": "makkah",
+      "arabic": "سَنُرِيهِمْ ءَايَـٰتِنَا فِى ٱلْـَٔافَاقِ وَفِىٓ أَنفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ ٱلْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "transliteration": "Sanureehim Aayaatinaa fil aafaaqi wa feee anfusihim hattaa yatabaiyana lahum annahul haqq; awa lam yakfi bi Rabbika annahoo 'alaa kulli shai-in Shaheed",
+      "translations": {
+        "yusufali": "Soon will We show them our Signs in the (furthest) regions (of the earth), and in their own souls, until it becomes manifest to them that this is the Truth. Is it not enough that thy Lord doth witness all things?",
+        "pickthall": "We shall show them Our portents on the horizons and within themselves until it will be manifest unto them that it is the Truth. Doth not thy Lord suffice, since He is Witness over all things?"
+      },
+      "url": "https://quran.com/41/53"
+    },
+    {
+      "ref": "42:40",
+      "surah": 42,
+      "ayah": 40,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ash-Shuraa",
+      "surahNameArabic": "الشورى",
+      "surahMeaning": "The Consultation",
+      "revelation": "makkah",
+      "arabic": "وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلظَّـٰلِمِينَ",
+      "transliteration": "Wa jazaaa'u saiyi'atin saiyi'tum misluha faman 'afaa wa aslaha fa ajruhoo 'alal laah; innahoo laa yuhibbuz zaalimeen",
+      "translations": {
+        "yusufali": "The recompense for an injury is an injury equal thereto (in degree): but if a person forgives and makes reconciliation, his reward is due from Allah: for (Allah) loveth not those who do wrong.",
+        "pickthall": "The guerdon of an ill-deed is an ill the like thereof. But whosoever pardoneth and amendeth, his wage is the affair of Allah. Lo! He loveth not wrong-doers."
+      },
+      "url": "https://quran.com/42/40"
+    },
+    {
+      "ref": "42:43",
+      "surah": 42,
+      "ayah": 43,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Ash-Shuraa",
+      "surahNameArabic": "الشورى",
+      "surahMeaning": "The Consultation",
+      "revelation": "makkah",
+      "arabic": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+      "transliteration": "Wa laman sabara wa ghafara inna zaalika lamin 'azmil umoor",
+      "translations": {
+        "yusufali": "But indeed if any show patience and forgive, that would truly be an exercise of courageous will and resolution in the conduct of affairs.",
+        "pickthall": "And verily whoso is patient and forgiveth - lo! that, verily, is (of) the steadfast heart of things."
+      },
+      "url": "https://quran.com/42/43"
+    },
+    {
+      "ref": "43:73",
+      "surah": 43,
+      "ayah": 73,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Az-Zukhruf",
+      "surahNameArabic": "الزخرف",
+      "surahMeaning": "The Ornaments of Gold",
+      "revelation": "makkah",
+      "arabic": "لَكُمْ فِيهَا فَـٰكِهَةٌ كَثِيرَةٌ مِّنْهَا تَأْكُلُونَ",
+      "transliteration": "Lakum feehaa faakihatun kaseeratum minhaa taakuloon",
+      "translations": {
+        "yusufali": "Ye shall have therein abundance of fruit, from which ye shall have satisfaction.",
+        "pickthall": "Therein for you is fruit in plenty whence to eat."
+      },
+      "url": "https://quran.com/43/73"
+    },
+    {
+      "ref": "45:13",
+      "surah": 45,
+      "ayah": 13,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Jathiyah",
+      "surahNameArabic": "الجاثية",
+      "surahMeaning": "The Crouching",
+      "revelation": "makkah",
+      "arabic": "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+      "transliteration": "Wa sakhkhara lakum maa fis samaawaati wa maa fil ardi jamee'am minh; inna feezaalika la Aayaatil liqawminy yatafakkaroon",
+      "translations": {
+        "yusufali": "And He has subjected to you, as from Him, all that is in the heavens and on earth: Behold, in that are Signs indeed for those who reflect.",
+        "pickthall": "And hath made of service unto you whatsoever is in the heavens and whatsoever is in the earth; it is all from Him. Lo! herein verily are portents for a people who reflect."
+      },
+      "url": "https://quran.com/45/13"
+    },
+    {
+      "ref": "46:35",
+      "surah": 46,
+      "ayah": 35,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Ahqaf",
+      "surahNameArabic": "الأحقاف",
+      "surahMeaning": "The Wind-Curved Sandhills",
+      "revelation": "makkah",
+      "arabic": "فَٱصْبِرْ كَمَا صَبَرَ أُو۟لُوا۟ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ وَلَا تَسْتَعْجِل لَّهُمْ ۚ كَأَنَّهُمْ يَوْمَ يَرَوْنَ مَا يُوعَدُونَ لَمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّن نَّهَارٍۭ ۚ بَلَـٰغٌ ۚ فَهَلْ يُهْلَكُ إِلَّا ٱلْقَوْمُ ٱلْفَـٰسِقُونَ",
+      "transliteration": "Fasbir kamaa sabara ulul 'azmi minar Rusuli wa laa tasta'jil lahum; ka annahum Yawma yarawna maa yoo'adoona lam yalbasooo illaa saa'atam min nahaar; balaagh; fahal yuhlaku illal qawmul faasiqoon",
+      "translations": {
+        "yusufali": "Therefore patiently persevere, as did (all) messengers of inflexible purpose; and be in no haste about the (Unbelievers). On the Day that they see the (Punishment) promised them, (it will be) as if they had not tarried more than an hour in a single day. (Thine but) to proclaim the Message: but shall any be destroyed except those who transgress?",
+        "pickthall": "Then have patience (O Muhammad) even as the stout of heart among the messengers (of old) had patience, and seek not to hasten on (the doom) for them. On the day when they see that which they are promised (it will seem to them) as though they had tarried but an hour of daylight. A clear message. Shall any be destroyed save evil-living folk?"
+      },
+      "url": "https://quran.com/46/35"
+    },
+    {
+      "ref": "47:7",
+      "surah": 47,
+      "ayah": 7,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Muhammad",
+      "surahNameArabic": "محمد",
+      "surahMeaning": "Muhammad",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ",
+      "transliteration": "Yaaa ayyuhal lazeena aamanooo in tansurul laaha yansurkum wa yusabbit aqdaamakum",
+      "translations": {
+        "yusufali": "O ye who believe! If ye will aid (the cause of) Allah, He will aid you, and plant your feet firmly.",
+        "pickthall": "O ye who believe! If ye help Allah, He will help you and will make your foothold firm."
+      },
+      "url": "https://quran.com/47/7"
+    },
+    {
+      "ref": "48:4",
+      "surah": 48,
+      "ayah": 4,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Fath",
+      "surahNameArabic": "الفتح",
+      "surahMeaning": "The Victory",
+      "revelation": "madinah",
+      "arabic": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَـٰنًا مَّعَ إِيمَـٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+      "transliteration": "Huwal lazeee anzalas sakeenata fee quloobil mu'mineena liyazdaadooo eemaanamma'a eemaanihim; wa lillaahi junoodus samawaati wal ard; wa kaanal laahu 'Aleeman Hakeemaa",
+      "translations": {
+        "yusufali": "It is He Who sent down tranquillity into the hearts of the Believers, that they may add faith to their faith;- for to Allah belong the Forces of the heavens and the earth; and Allah is Full of Knowledge and Wisdom;-",
+        "pickthall": "He it is Who sent down peace of reassurance into the hearts of the believers that they might add faith unto their faith. Allah's are the hosts of the heavens and the earth, and Allah is ever Knower, Wise -"
+      },
+      "url": "https://quran.com/48/4"
+    },
+    {
+      "ref": "49:11",
+      "surah": 49,
+      "ayah": 11,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Hujurat",
+      "surahNameArabic": "الحجرات",
+      "surahMeaning": "The Rooms",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+      "transliteration": "Yaaa ayyuhal lazeena aamanoo laa yaskhar qawmum min qawmin 'asaaa anyyakoonoo khairam minhum wa laa nisaaa'um min nisaaa'in 'Asaaa ay yakunna khairam minhunna wa laa talmizooo bil alqaab; bi'sal ismul fusooqu ba'dal eemaan; wa mal-lam yatub fa-ulaaa'ika humuz zaalimoon",
+      "translations": {
+        "yusufali": "O ye who believe! Let not some men among you laugh at others: It may be that the (latter) are better than the (former): Nor let some women laugh at others: It may be that the (latter are better than the (former): Nor defame nor be sarcastic to each other, nor call each other by (offensive) nicknames: Ill-seeming is a name connoting wickedness, (to be used of one) after he has believed: And those who do not desist are (indeed) doing wrong.",
+        "pickthall": "O ye who believe! Let not a folk deride a folk who may be better than they (are), not let women (deride) women who may be better than they are; neither defame one another, nor insult one another by nicknames. Bad is the name of lewdness after faith. And whoso turneth not in repentance, such are evil-doers."
+      },
+      "url": "https://quran.com/49/11"
+    },
+    {
+      "ref": "49:12",
+      "surah": 49,
+      "ayah": 12,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Hujurat",
+      "surahNameArabic": "الحجرات",
+      "surahMeaning": "The Rooms",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+      "transliteration": "Yaaa ayyuhal lazeena aamanuj taniboo kaseeram minaz zanni inna ba'daz zanniismunw wa laa tajassasoo wa la yaghtab ba'dukum ba'daa; a yuhibbu ahadukum any yaakula lahma akheehi maitan fakarih tumooh; wattaqul laa; innal laaha tawwaabur Raheem",
+      "translations": {
+        "yusufali": "O ye who believe! Avoid suspicion as much (as possible): for suspicion in some cases is a sin: And spy not on each other behind their backs. Would any of you like to eat the flesh of his dead brother? Nay, ye would abhor it... But fear Allah: For Allah is Oft-Returning, Most Merciful.",
+        "pickthall": "O ye who believe! Shun much suspicion; for lo! some suspicion is a crime. And spy not, neither backbite one another. Would one of you love to eat the flesh of his dead brother? Ye abhor that (so abhor the other)! And keep your duty (to Allah). Lo! Allah is Relenting, Merciful."
+      },
+      "url": "https://quran.com/49/12"
+    },
+    {
+      "ref": "49:13",
+      "surah": 49,
+      "ayah": 13,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Hujurat",
+      "surahNameArabic": "الحجرات",
+      "surahMeaning": "The Rooms",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ",
+      "transliteration": "Yaaa ayyuhan naasu innaa khalaqnaakum min zakarinw wa unsaa wa ja'alnaakum shu'oobanw wa qabaaa'ila lita'aarafoo inna akramakum 'indal laahi atqaakum innal laaha 'Aleemun khabeer",
+      "translations": {
+        "yusufali": "O mankind! We created you from a single (pair) of a male and a female, and made you into nations and tribes, that ye may know each other (not that ye may despise (each other). Verily the most honoured of you in the sight of Allah is (he who is) the most righteous of you. And Allah has full knowledge and is well acquainted (with all things).",
+        "pickthall": "O mankind! Lo! We have created you male and female, and have made you nations and tribes that ye may know one another. Lo! the noblest of you, in the sight of Allah, is the best in conduct. Lo! Allah is Knower, Aware."
+      },
+      "url": "https://quran.com/49/13"
+    },
+    {
+      "ref": "50:37",
+      "surah": 50,
+      "ayah": 37,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Qaf",
+      "surahNameArabic": "ق",
+      "surahMeaning": "The Letter \"Qaf\"",
+      "revelation": "makkah",
+      "arabic": "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ",
+      "transliteration": "Inna fee zaalika lazikraa liman kaana lahoo qalbun aw alqas sam'a wa huwa shaheed",
+      "translations": {
+        "yusufali": "Verily in this is a Message for any that has a heart and understanding or who gives ear and earnestly witnesses (the truth).",
+        "pickthall": "Lo! therein verily is a reminder for him who hath a heart, or giveth ear with full intelligence."
+      },
+      "url": "https://quran.com/50/37"
+    },
+    {
+      "ref": "51:21",
+      "surah": 51,
+      "ayah": 21,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahMeaning": "The Winnowing Winds",
+      "revelation": "makkah",
+      "arabic": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+      "transliteration": "Wa feee anfusikum; afalaa tubsiroon",
+      "translations": {
+        "yusufali": "As also in your own selves: Will ye not then see?",
+        "pickthall": "And (also) in yourselves. Can ye then not see?"
+      },
+      "url": "https://quran.com/51/21"
+    },
+    {
+      "ref": "51:58",
+      "surah": 51,
+      "ayah": 58,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Adh-Dhariyat",
+      "surahNameArabic": "الذاريات",
+      "surahMeaning": "The Winnowing Winds",
+      "revelation": "makkah",
+      "arabic": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+      "transliteration": "Innal laaha Huwar Razzaaqu Zul Quwwatil Mateen",
+      "translations": {
+        "yusufali": "For Allah is He Who gives (all) Sustenance,- Lord of Power,- Steadfast (for ever).",
+        "pickthall": "Lo! Allah! He it is that giveth livelihood, the Lord of unbreakable might."
+      },
+      "url": "https://quran.com/51/58"
+    },
+    {
+      "ref": "55:4",
+      "surah": 55,
+      "ayah": 4,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahMeaning": "The Beneficent",
+      "revelation": "madinah",
+      "arabic": "عَلَّمَهُ ٱلْبَيَانَ",
+      "transliteration": "'Allamalhul bayaan",
+      "translations": {
+        "yusufali": "He has taught him speech (and intelligence).",
+        "pickthall": "He hath taught him utterance."
+      },
+      "url": "https://quran.com/55/4"
+    },
+    {
+      "ref": "55:60",
+      "surah": 55,
+      "ayah": 60,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Ar-Rahman",
+      "surahNameArabic": "الرحمن",
+      "surahMeaning": "The Beneficent",
+      "revelation": "madinah",
+      "arabic": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "transliteration": "Hal jazaaa'ul ihsaani illal ihsaan",
+      "translations": {
+        "yusufali": "Is there any Reward for Good - other than Good?",
+        "pickthall": "Is the reward of goodness aught save goodness?"
+      },
+      "url": "https://quran.com/55/60"
+    },
+    {
+      "ref": "56:70",
+      "surah": 56,
+      "ayah": 70,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-Waqi'ah",
+      "surahNameArabic": "الواقعة",
+      "surahMeaning": "The Inevitable",
+      "revelation": "makkah",
+      "arabic": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "transliteration": "Law nashaaa'u ja'alnaahu ujaajan falaw laa tashkuroon",
+      "translations": {
+        "yusufali": "Were it Our Will, We could make it salt (and unpalatable): then why do ye not give thanks?",
+        "pickthall": "If We willed We verily could make it bitter. Why then, give ye not thanks?"
+      },
+      "url": "https://quran.com/56/70"
+    },
+    {
+      "ref": "57:23",
+      "surah": 57,
+      "ayah": 23,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Hadid",
+      "surahNameArabic": "الحديد",
+      "surahMeaning": "The Iron",
+      "revelation": "madinah",
+      "arabic": "لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ ۗ وَٱللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+      "transliteration": "Likailaa taasaw 'alaa maa faatakum wa laa tafrahoo bimaaa aataakum; wallaahu laa yuhibbu kulla mukhtaalin fakhoor",
+      "translations": {
+        "yusufali": "In order that ye may not despair over matters that pass you by, nor exult over favours bestowed upon you. For Allah loveth not any vainglorious boaster,-",
+        "pickthall": "That ye grieve not for the sake of that which hath escaped you, nor yet exult because of that which hath been given. Allah loveth not all prideful boasters,"
+      },
+      "url": "https://quran.com/57/23"
+    },
+    {
+      "ref": "58:11",
+      "surah": 58,
+      "ayah": 11,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Mujadila",
+      "surahNameArabic": "المجادلة",
+      "surahMeaning": "The Pleading Woman",
+      "revelation": "madinah",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قِيلَ لَكُمْ تَفَسَّحُوا۟ فِى ٱلْمَجَـٰلِسِ فَٱفْسَحُوا۟ يَفْسَحِ ٱللَّهُ لَكُمْ ۖ وَإِذَا قِيلَ ٱنشُزُوا۟ فَٱنشُزُوا۟ يَرْفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ دَرَجَـٰتٍ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+      "transliteration": "Yaaa ayyuhal lazeena aamanoo izaa qeela lakum tafassahoo fil majaalisi fafsahoo yafsahil laahu lakum wa izaa qeelan shuzoo fanshuzoo yarfa'il laahul lazeena aamanoo minkum wallazeena ootul 'ilma darajaat; wallaahu bimaa ta'maloona khabeer",
+      "translations": {
+        "yusufali": "O ye who believe! When ye are told to make room in the assemblies, (spread out and) make room: (ample) room will Allah provide for you. And when ye are told to rise up, rise up Allah will rise up, to (suitable) ranks (and degrees), those of you who believe and who have been granted (mystic) Knowledge. And Allah is well-acquainted with all ye do.",
+        "pickthall": "O ye who believe! when it is said unto you, Make room! in assemblies, then make room; Allah will make way for you (hereafter). And when it is said, Come up higher! go up higher; Allah will exalt those who believe among you, and those who have knowledge, to high ranks. Allah is Informed of what ye do."
+      },
+      "url": "https://quran.com/58/11"
+    },
+    {
+      "ref": "64:13",
+      "surah": 64,
+      "ayah": 13,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "At-Taghabun",
+      "surahNameArabic": "التغابن",
+      "surahMeaning": "The Mutual Disillusion",
+      "revelation": "madinah",
+      "arabic": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ",
+      "transliteration": "Allaahu laaa ilaaha illaa Hoo; wa 'alal laahi falyata wakkalil mu'minoon",
+      "translations": {
+        "yusufali": "Allah! There is no god but He: and on Allah, therefore, let the Believers put their trust.",
+        "pickthall": "Allah! There is no god except Him. In Allah, therefore, let believers put their trust."
+      },
+      "url": "https://quran.com/64/13"
+    },
+    {
+      "ref": "65:2",
+      "surah": 65,
+      "ayah": 2,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "At-Talaq",
+      "surahNameArabic": "الطلاق",
+      "surahMeaning": "The Divorce",
+      "revelation": "madinah",
+      "arabic": "فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟ ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَـٰدَةَ لِلَّهِ ۚ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا",
+      "transliteration": "Fa izaa balaghna ajalahunna fa amsikoohunna bima'roofin aw faariqoohunna bima'roofinw wa ashhidoo zawai 'adlim minkum wa aqeemush shahaadata lillaah; zaalikum yoo'azu bihee man kaana yu'minu billaahi wal yawmil aakhir; wa many yattaqil laaha yaj'al lahoo makhrajaa",
+      "translations": {
+        "yusufali": "Thus when they fulfil their term appointed, either take them back on equitable terms or part with them on equitable terms; and take for witness two persons from among you, endued with justice, and establish the evidence (as) before Allah. Such is the admonition given to him who believes in Allah and the Last Day. And for those who fear Allah, He (ever) prepares a way out,",
+        "pickthall": "Then, when they have reached their term, take them back in kindness or part from them in kindness, and call to witness two just men among you, and keep your testimony upright for Allah. Whoso believeth in Allah and the Last Day is exhorted to act thus. And whosoever keepeth his duty to Allah, Allah will appoint a way out for him,"
+      },
+      "url": "https://quran.com/65/2"
+    },
+    {
+      "ref": "65:3",
+      "surah": 65,
+      "ayah": 3,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "At-Talaq",
+      "surahNameArabic": "الطلاق",
+      "surahMeaning": "The Divorce",
+      "revelation": "madinah",
+      "arabic": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا",
+      "transliteration": "Wa yarzuqhu min haisu laa yahtasib; wa many yatawakkal 'alal laahi fahuwa husbuh; innal laaha baalighu amrih; qad ja'alal laahu likulli shai'in qadraa",
+      "translations": {
+        "yusufali": "And He provides for him from (sources) he never could imagine. And if any one puts his trust in Allah, sufficient is (Allah) for him. For Allah will surely accomplish his purpose: verily, for all things has Allah appointed a due proportion.",
+        "pickthall": "And will provide for him from (a quarter) whence he hath no expectation. And whosoever putteth his trust in Allah, He will suffice him. Lo! Allah bringeth His command to pass. Allah hath set a measure for all things."
+      },
+      "url": "https://quran.com/65/3"
+    },
+    {
+      "ref": "65:7",
+      "surah": 65,
+      "ayah": 7,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "At-Talaq",
+      "surahNameArabic": "الطلاق",
+      "surahMeaning": "The Divorce",
+      "revelation": "madinah",
+      "arabic": "لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ ۖ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ ٱللَّهُ ۚ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا ۚ سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا",
+      "transliteration": "Liyuntiq zoo sa'atim min sa'atihee wa man qudira 'alaihi riquhoo falyunfiq mimmaaa aataahul laah; laa yukalliful laahu nafsan illaa maaa aataahaa; sa yaj'alul laahu ba'da'usriny yusraa",
+      "translations": {
+        "yusufali": "Let the man of means spend according to his means: and the man whose resources are restricted, let him spend according to what Allah has given him. Allah puts no burden on any person beyond what He has given him. After a difficulty, Allah will soon grant relief.",
+        "pickthall": "Let him who hath abundance spend of his abundance, and he whose provision is measured, let him spend of that which Allah hath given him. Allah asketh naught of any soul save that which He hath given it. Allah will vouchsafe, after hardship, ease."
+      },
+      "url": "https://quran.com/65/7"
+    },
+    {
+      "ref": "67:23",
+      "surah": 67,
+      "ayah": 23,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-Mulk",
+      "surahNameArabic": "الملك",
+      "surahMeaning": "The Sovereignty",
+      "revelation": "makkah",
+      "arabic": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+      "transliteration": "Qul huwal lazee ansha akum wa ja'ala lakumus sam'a wal absaara wal af'idata qaleelam maa tashkuroon",
+      "translations": {
+        "yusufali": "Say: \"It is He Who has created you (and made you grow), and made for you the faculties of hearing, seeing, feeling and understanding: little thanks it is ye give.",
+        "pickthall": "Say (unto them, O Muhammad): He it is who gave you being, and hath assigned unto you ears and eyes and hearts. Small thanks give ye!"
+      },
+      "url": "https://quran.com/67/23"
+    },
+    {
+      "ref": "67:29",
+      "surah": 67,
+      "ayah": 29,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Mulk",
+      "surahNameArabic": "الملك",
+      "surahMeaning": "The Sovereignty",
+      "revelation": "makkah",
+      "arabic": "قُلْ هُوَ ٱلرَّحْمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "transliteration": "Qul huwar rahmaanu aamannaa bihee wa 'alaihi tawakkalnaa fasata'lamoona man huwa fee dalaalim mubeen",
+      "translations": {
+        "yusufali": "Say: \"He is (Allah) Most Gracious: We have believed in Him, and on Him have we put our trust: So, soon will ye know which (of us) it is that is in manifest error.\"",
+        "pickthall": "Say: He is the Beneficent. In Him we believe and in Him we put our trust. And ye will soon know who it is that is in error manifest."
+      },
+      "url": "https://quran.com/67/29"
+    },
+    {
+      "ref": "68:1",
+      "surah": 68,
+      "ayah": 1,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahMeaning": "The Pen",
+      "revelation": "makkah",
+      "arabic": "نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ",
+      "transliteration": "Noon; walqalami wa maa yasturoon",
+      "translations": {
+        "yusufali": "Nun. By the Pen and the (Record) which (men) write,-",
+        "pickthall": "Nun. By the pen and that which they write (therewith),"
+      },
+      "url": "https://quran.com/68/1"
+    },
+    {
+      "ref": "68:4",
+      "surah": 68,
+      "ayah": 4,
+      "themes": [
+        "ihsan"
+      ],
+      "surahName": "Al-Qalam",
+      "surahNameArabic": "القلم",
+      "surahMeaning": "The Pen",
+      "revelation": "makkah",
+      "arabic": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ",
+      "transliteration": "Wa innaka la'alaa khuluqin 'azeem",
+      "translations": {
+        "yusufali": "And thou (standest) on an exalted standard of character.",
+        "pickthall": "And lo! thou art of a tremendous nature."
+      },
+      "url": "https://quran.com/68/4"
+    },
+    {
+      "ref": "70:5",
+      "surah": 70,
+      "ayah": 5,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Ma'arij",
+      "surahNameArabic": "المعارج",
+      "surahMeaning": "The Ascending Stairways",
+      "revelation": "makkah",
+      "arabic": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "transliteration": "Fasbir ssabran jameelaa",
+      "translations": {
+        "yusufali": "Therefore do thou hold Patience,- a Patience of beautiful (contentment).",
+        "pickthall": "But be patient (O Muhammad) with a patience fair to see."
+      },
+      "url": "https://quran.com/70/5"
+    },
+    {
+      "ref": "73:9",
+      "surah": 73,
+      "ayah": 9,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Muzzammil",
+      "surahNameArabic": "المزمل",
+      "surahMeaning": "The Enshrouded One",
+      "revelation": "makkah",
+      "arabic": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+      "transliteration": "Rabbul mashriqi wal maghriibi laaa ilaaha illaa Huwa fattakhizhu wakeelaa",
+      "translations": {
+        "yusufali": "(He is) Lord of the East and the West: there is no god but He: take Him therefore for (thy) Disposer of Affairs.",
+        "pickthall": "Lord of the East and the West; there is no Allah save Him; so choose thou Him alone for thy defender -"
+      },
+      "url": "https://quran.com/73/9"
+    },
+    {
+      "ref": "76:2",
+      "surah": 76,
+      "ayah": 2,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الانسان",
+      "surahMeaning": "The Man",
+      "revelation": "madinah",
+      "arabic": "إِنَّا خَلَقْنَا ٱلْإِنسَـٰنَ مِن نُّطْفَةٍ أَمْشَاجٍ نَّبْتَلِيهِ فَجَعَلْنَـٰهُ سَمِيعًۢا بَصِيرًا",
+      "transliteration": "Innaa khalaqnal insaana min nutfatin amshaajin nabta leehi faja'alnaahu samee'am baseeraa",
+      "translations": {
+        "yusufali": "Verily We created Man from a drop of mingled sperm, in order to try him: So We gave him (the gifts), of Hearing and Sight.",
+        "pickthall": "Lo! We create man from a drop of thickened fluid to test him; so We make him hearing, knowing."
+      },
+      "url": "https://quran.com/76/2"
+    },
+    {
+      "ref": "76:24",
+      "surah": 76,
+      "ayah": 24,
+      "themes": [
+        "sabr"
+      ],
+      "surahName": "Al-Insan",
+      "surahNameArabic": "الانسان",
+      "surahMeaning": "The Man",
+      "revelation": "madinah",
+      "arabic": "فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ ءَاثِمًا أَوْ كَفُورًا",
+      "transliteration": "Fasbir lihukmi Rabbika wa laa tuti' minhum aasiman aw kafooraa",
+      "translations": {
+        "yusufali": "Therefore be patient with constancy to the Command of thy Lord, and hearken not to the sinner or the ingrate among them.",
+        "pickthall": "So submit patiently to thy Lord's command, and obey not of them any guilty one or disbeliever."
+      },
+      "url": "https://quran.com/76/24"
+    },
+    {
+      "ref": "80:32",
+      "surah": 80,
+      "ayah": 32,
+      "themes": [
+        "shukr"
+      ],
+      "surahName": "'Abasa",
+      "surahNameArabic": "عبس",
+      "surahMeaning": "He Frowned",
+      "revelation": "makkah",
+      "arabic": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+      "transliteration": "Mata'al-lakum wa li-an'amikum.",
+      "translations": {
+        "yusufali": "For use and convenience to you and your cattle.",
+        "pickthall": "Provision for you and your cattle."
+      },
+      "url": "https://quran.com/80/32"
+    },
+    {
+      "ref": "90:10",
+      "surah": 90,
+      "ayah": 10,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahMeaning": "The City",
+      "revelation": "makkah",
+      "arabic": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "transliteration": "Wa hadaynaahun najdayn",
+      "translations": {
+        "yusufali": "And shown him the two highways?",
+        "pickthall": "And guide him to the parting of the mountain ways?"
+      },
+      "url": "https://quran.com/90/10"
+    },
+    {
+      "ref": "90:17",
+      "surah": 90,
+      "ayah": 17,
+      "themes": [
+        "ihsan",
+        "sabr"
+      ],
+      "surahName": "Al-Balad",
+      "surahNameArabic": "البلد",
+      "surahMeaning": "The City",
+      "revelation": "makkah",
+      "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "transliteration": "Summa kaana minal lazeena aamanoo wa tawaasaw bissabri wa tawaasaw bilmarhamah",
+      "translations": {
+        "yusufali": "Then will he be of those who believe, and enjoin patience, (constancy, and self-restraint), and enjoin deeds of kindness and compassion.",
+        "pickthall": "And to be of those who believe and exhort one another to perseverance and exhort one another to pity."
+      },
+      "url": "https://quran.com/90/17"
+    },
+    {
+      "ref": "92:7",
+      "surah": 92,
+      "ayah": 7,
+      "themes": [
+        "tawakkul"
+      ],
+      "surahName": "Al-Layl",
+      "surahNameArabic": "الليل",
+      "surahMeaning": "The Night",
+      "revelation": "makkah",
+      "arabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "transliteration": "Fasanu yassiruhoo lilyusraa",
+      "translations": {
+        "yusufali": "We will indeed make smooth for him the path to Bliss.",
+        "pickthall": "Surely We will ease his way unto the state of ease."
+      },
+      "url": "https://quran.com/92/7"
+    },
+    {
+      "ref": "96:1",
+      "surah": 96,
+      "ayah": 1,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-'Alaq",
+      "surahNameArabic": "العلق",
+      "surahMeaning": "The Clot",
+      "revelation": "makkah",
+      "arabic": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "transliteration": "Iqra bismi rab bikal lazee khalaq",
+      "translations": {
+        "yusufali": "Proclaim! (or read!) in the name of thy Lord and Cherisher, Who created-",
+        "pickthall": "Read: In the name of thy Lord Who createth,"
+      },
+      "url": "https://quran.com/96/1"
+    },
+    {
+      "ref": "96:3",
+      "surah": 96,
+      "ayah": 3,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-'Alaq",
+      "surahNameArabic": "العلق",
+      "surahMeaning": "The Clot",
+      "revelation": "makkah",
+      "arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "transliteration": "Iqra wa rab bukal akram",
+      "translations": {
+        "yusufali": "Proclaim! And thy Lord is Most Bountiful,-",
+        "pickthall": "Read: And thy Lord is the Most Bounteous,"
+      },
+      "url": "https://quran.com/96/3"
+    },
+    {
+      "ref": "96:4",
+      "surah": 96,
+      "ayah": 4,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-'Alaq",
+      "surahNameArabic": "العلق",
+      "surahMeaning": "The Clot",
+      "revelation": "makkah",
+      "arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "transliteration": "Al lazee 'allama bil qalam",
+      "translations": {
+        "yusufali": "He Who taught (the use of) the pen,-",
+        "pickthall": "Who teacheth by the pen,"
+      },
+      "url": "https://quran.com/96/4"
+    },
+    {
+      "ref": "96:5",
+      "surah": 96,
+      "ayah": 5,
+      "themes": [
+        "ilm"
+      ],
+      "surahName": "Al-'Alaq",
+      "surahNameArabic": "العلق",
+      "surahMeaning": "The Clot",
+      "revelation": "makkah",
+      "arabic": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "transliteration": "'Al lamal insaana ma lam y'alam",
+      "translations": {
+        "yusufali": "Taught man that which he knew not.",
+        "pickthall": "Teacheth man that which he knew not."
+      },
+      "url": "https://quran.com/96/5"
+    },
+    {
+      "ref": "103:3",
+      "surah": 103,
+      "ayah": 3,
+      "themes": [
+        "ihsan",
+        "sabr"
+      ],
+      "surahName": "Al-'Asr",
+      "surahNameArabic": "العصر",
+      "surahMeaning": "The Declining Day",
+      "revelation": "makkah",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "transliteration": "Il lal lazeena aamanu wa 'amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr",
+      "translations": {
+        "yusufali": "Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.",
+        "pickthall": "Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance."
+      },
+      "url": "https://quran.com/103/3"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "quran-reminder",
+  "version": "1.0.0",
+  "description": "One Quranic ayah at the start of every coding session — for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, Windsurf, Antigravity, Cline, Roo Code, Aider, VS Code Copilot and any agent that reads AGENTS.md.",
+  "keywords": [
+    "quran",
+    "quran-reminder",
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "opencode",
+    "aider",
+    "copilot",
+    "ai-coding",
+    "hooks"
+  ],
+  "license": "MIT",
+  "author": "Sadat Rakib",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "bin": {
+    "quran": "bin/quran.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "data/",
+    "hooks/",
+    ".claude-plugin/",
+    "README.md",
+    "LICENSE",
+    "ATTRIBUTION.md",
+    "CONTRIBUTING.md"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "test": "node --test",
+    "test:coverage": "node --test --experimental-test-coverage",
+    "build:data": "node scripts/build-data.js",
+    "verify:data": "node scripts/verify-data.js",
+    "doctor": "node bin/quran.js doctor",
+    "demo": "node bin/quran.js show --no-color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadat-Rakib/quran-reminder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sadat-Rakib/quran-reminder/issues"
+  },
+  "homepage": "https://github.com/Sadat-Rakib/quran-reminder#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}

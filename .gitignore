@@ -1,0 +1,17 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local plugin state (never commit a user's settings)
+.quran-reminder/
+*.quran-reminder-*.bak
+
+# Test / coverage output
+coverage/
+.nyc_output/
+
+# Editor noise
+.vscode/*
+!.vscode/extensions.json
+.idea/
