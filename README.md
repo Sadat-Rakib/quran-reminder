@@ -514,7 +514,7 @@ This section is deliberately specific, so you know exactly what you are trusting
 
 **Automated (every commit, every OS in CI):**
 
-- **82 tests, all passing** on Windows 11 with Node 22 (`npm test`).
+- **82 tests, all passing** locally on Windows 11 (Node 22) and in CI on Ubuntu, macOS and Windows × Node 18, 20 and 22.
 - Dataset integrity: 145 unique ayahs, every reference within its surah's canonical length, Arabic present, both translations present, no HTML leakage, checksum matches `manifest.json`.
 - Rendering: panels are rectangular at every width, wrapping never exceeds the width, narrow terminals fall back to plain text, colors are opt-out.
 - Selection and state: time-of-day boundaries, no-repeat within a session, exhaustion fallback, daily/hourly/session frequencies, corrupt state files.
@@ -535,7 +535,7 @@ This section is deliberately specific, so you know exactly what you are trusting
 
 - A live, authenticated session in Claude Code, Codex, Cursor, Gemini CLI, Windsurf, Antigravity, OpenCode, Cline, Roo Code or Aider on this machine.
 - Gemini CLI, Windsurf, Aider, Cline and Roo Code are **not installed** on the build machine; their configs follow the vendors' published schemas but were not loaded by the real apps.
-- macOS and Linux were exercised by the test suite, not by running each editor.
+- The editors and CLIs themselves were not launched on macOS or Linux. CI does run the full installer, `doctor` and uninstall flow on all three operating systems, plus the hook payload check.
 - Cline's `TaskStart` hook path was tested only on Windows, where Cline uses the rules file instead.
 
 If an integration does not work for you, please open an issue with `quran doctor` output and the tool version. That is how the 🟡 rows become ✅.
