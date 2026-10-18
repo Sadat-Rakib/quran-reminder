@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/☾-quran--reminder-2d6a4f?style=for-the-badge" alt="quran-reminder" />
+  <img src="https://img.shields.io/badge/quran--reminder-2d6a4f?style=for-the-badge" alt="quran-reminder" />
 </p>
 
 <h1 align="center">quran-reminder</h1>
@@ -128,7 +128,7 @@ All commands below assume you either ran Option B (`quran` on your `PATH`) or pr
 npx github:Sadat-Rakib/quran-reminder install claude-code
 ```
 
-By default, **hooks are written to your user-level config** and **instruction files to the current project**. Override with `--scope user` or `--scope project`. Existing settings are merged, never replaced, and every modified file gets a timestamped `.bak` next to it.
+By default, **hook-based tools are configured at the user level** (Antigravity uses the current project), and **instruction files are written to the current project**. Override with `--scope user` or `--scope project`. Existing settings are merged, never replaced, and every modified file gets a timestamped `.bak` next to it.
 
 ### Claude Code
 
@@ -526,9 +526,9 @@ This section is deliberately specific, so you know exactly what you are trusting
 **Manual, on the build machine (Windows 11, Node 22.22):**
 
 - `claude plugin validate . --strict` — marketplace and plugin manifests pass; `claude --plugin-dir . plugin details quran-reminder` loads the plugin and reports **1 SessionStart hook**. A live Claude session could not be run because the local OAuth session had expired.
-- `codex doctor` — Codex loads the generated `~/.codex/hooks.json` without configuration errors. A live Codex turn was not run (no credentials).
+- `codex doctor` — Codex reported a healthy configuration with the generated `~/.codex/hooks.json` in place. The hook itself was not executed by Codex, because no credentials are available on this machine.
 - `opencode debug config` — OpenCode discovers `.opencode/plugins/quran-reminder.js` and lists it under `plugin` / `plugin_origins`. A live session was not run.
-- The exact command written into each hook config was executed with that tool's documented stdin payload, and its output parsed — for Claude Code, Codex, Gemini CLI, Cursor and Windsurf.
+- The exact command written into each hook config was executed with that tool's documented stdin payload, and its output parsed — for Claude Code, Codex, Gemini CLI, Cursor, Windsurf and Antigravity.
 - `npm run verify:data` — sampled ayahs re-fetched from quran.com and alquran.cloud; Arabic, both translations, transliteration and surah names matched exactly.
 
 **Not verified here (please treat as untested until you try it):**
