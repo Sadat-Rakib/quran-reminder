@@ -36,7 +36,7 @@ module.exports = {
     });
     if (res.ok) {
       note(res, 'Claude Code will also ask you to approve project hooks the first time they run.');
-      note(res, 'Plugin alternative: claude --plugin-dir <repo>/plugin (see README).');
+      note(res, 'Plugin alternative: claude --plugin-dir <repo> (see README).');
     }
     return res;
   },
