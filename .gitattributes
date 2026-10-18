@@ -1,0 +1,10 @@
+# Normalise line endings everywhere, but never touch the data files:
+# their SHA-256 is recorded in data/manifest.json and verified by `quran doctor`.
+* text=auto eol=lf
+
+*.js text eol=lf
+*.json -text
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
