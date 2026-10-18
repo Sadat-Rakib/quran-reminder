@@ -210,6 +210,18 @@ function printAdapterResult(adapter, result) {
   for (const error of result.errors) line(`  ${paint.red(SYMBOL.fail + ' ' + error)}`);
 }
 
+/** Pure parser for the interactive menu answer — unit-tested in tests/cli.test.js. */
+function resolveSelection(answer, adapters, detectedIds = []) {
+  const trimmed = String(answer || '').trim();
+  if (!trimmed) return detectedIds.slice();
+  if (/^all$/i.test(trimmed)) return adapters.map((adapter) => adapter.id);
+  return trimmed
+    .split(/[,\s]+/)
+    .map((token) => Number(token))
+    .filter((n) => Number.isInteger(n) && n >= 1 && n <= adapters.length)
+    .map((n) => adapters[n - 1].id);
+}
+
 async function chooseTools(adapters, ctx, verb) {
   const readline = require('readline/promises');
   const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
@@ -220,39 +232,21 @@ async function chooseTools(adapters, ctx, verb) {
   line('');
 
   adapters.forEach((adapter, index) => {
-    let detected = false;
-    try {
-      detected = detectAdapter(adapter, ctx);
-    } catch (_) {
-      detected = false;
-    }
+    const detected = detectAdapter(adapter, ctx);
     const mark = detected ? paint.green('✓') : ' ';
     line(`  ${String(index + 1).padStart(2)}. ${mark} ${adapter.name} ${paint.dim(`(${adapter.kind})`)}`);
   });
 
   line('');
-  const detectedNumbers = adapters
-    .map((adapter, index) => {
-      try {
-        return detectAdapter(adapter, ctx) ? String(index + 1) : null;
-      } catch (_) {
-        return null;
-      }
-    })
-    .filter(Boolean);
+  const detectedIds = adapters
+    .filter((adapter) => detectAdapter(adapter, ctx))
+    .map((adapter) => adapter.id);
 
-  const hint = detectedNumbers.length ? ` [${detectedNumbers.join(',')}]` : '';
-  const answer = (await rl.question(`Install for${hint}: `)).trim();
+  const hint = detectedIds.length ? ` [${detectedIds.length} detected]` : '';
+  const answer = await rl.question(`Install for${hint} — numbers, "all", or Enter for detected: `);
   rl.close();
 
-  if (!answer) return detectedNumbers.map((n) => adapters[Number(n) - 1].id);
-  if (/^all$/i.test(answer)) return adapters.map((adapter) => adapter.id);
-
-  return answer
-    .split(/[,\s]+/)
-    .map((token) => Number(token))
-    .filter((n) => Number.isInteger(n) && n >= 1 && n <= adapters.length)
-    .map((n) => adapters[n - 1].id);
+  return resolveSelection(answer, adapters, detectedIds);
 }
 
 async function commandInstall(flags) {
@@ -824,4 +818,4 @@ if (require.main === module) {
   main();
 }
 
-module.exports = { main, parseFlags };
+module.exports = { main, parseFlags, resolveSelection };

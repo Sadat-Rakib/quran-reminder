@@ -503,7 +503,7 @@ quran-reminder/
 │   ├── ayahs.json            # generated, committed dataset
 │   └── manifest.json         # checksum + counts
 ├── scripts/                  # build:data, verify:data
-├── tests/                    # node:test suite (82 tests)
+├── tests/                    # node:test suite (84 tests)
 ├── hooks/hooks.json          # Claude Code plugin hook
 └── .claude-plugin/           # Claude Code plugin + marketplace manifests
 ```
@@ -514,7 +514,7 @@ This section is deliberately specific, so you know exactly what you are trusting
 
 **Automated (every commit, every OS in CI):**
 
-- **82 tests, all passing** locally on Windows 11 (Node 22) and in CI on Ubuntu, macOS and Windows × Node 18, 20 and 22.
+- **84 tests, all passing** locally on Windows 11 (Node 22) and in CI on Ubuntu, macOS and Windows × Node 18, 20 and 22.
 - Dataset integrity: 145 unique ayahs, every reference within its surah's canonical length, Arabic present, both translations present, no HTML leakage, checksum matches `manifest.json`.
 - Rendering: panels are rectangular at every width, wrapping never exceeds the width, narrow terminals fall back to plain text, colors are opt-out.
 - Selection and state: time-of-day boundaries, no-repeat within a session, exhaustion fallback, daily/hourly/session frequencies, corrupt state files.

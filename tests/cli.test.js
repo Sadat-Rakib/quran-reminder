@@ -6,6 +6,23 @@ const fs = require('fs');
 const path = require('path');
 
 const { makeEnv, runCli, readJson } = require('./helpers');
+const { resolveSelection, parseFlags } = require('../bin/quran.js');
+
+test('interactive selection parses numbers, "all" and the detected default', () => {
+  const adapters = [{ id: 'a' }, { id: 'b' }, { id: 'c' }];
+  assert.deepEqual(resolveSelection('', adapters, ['b']), ['b']);
+  assert.deepEqual(resolveSelection('all', adapters), ['a', 'b', 'c']);
+  assert.deepEqual(resolveSelection('1,3', adapters), ['a', 'c']);
+  assert.deepEqual(resolveSelection(' 2 1 ', adapters), ['b', 'a']);
+  assert.deepEqual(resolveSelection('9, nope', adapters), []);
+});
+
+test('flag parsing handles values, booleans and the -- separator', () => {
+  assert.equal(parseFlags(['install', '--all']).all, true);
+  assert.equal(parseFlags(['show', '--theme', 'sabr']).theme, 'sabr');
+  assert.equal(parseFlags(['show', '--theme=sabr']).theme, 'sabr');
+  assert.deepEqual(parseFlags(['run', '--', 'node', '-v'])._, ['run', 'node', '-v']);
+});
 
 test('quran show --format json returns a complete ayah', () => {
   const { env } = makeEnv();

@@ -31,7 +31,7 @@ The following ideas come directly from the original project, with thanks:
 - A non-destructive installer that merges into existing configuration and can uninstall cleanly
 - A verified dataset pipeline (`scripts/build-data.js`) plus an upstream verifier
 - A zero-dependency MCP server
-- An 82-test suite covering data, rendering, selection, adapters, CLI and MCP
+- An 84-test suite covering data, rendering, selection, adapters, CLI and MCP
 
 No source files from the original repository were copied. The original project declares the
 MIT license in its `package.json`; this project is also MIT licensed, and this attribution is
