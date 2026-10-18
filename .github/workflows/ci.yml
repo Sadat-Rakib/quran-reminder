@@ -32,6 +32,7 @@ jobs:
         run: node bin/quran.js show --no-color
 
       - name: CLI smoke test
+        shell: bash
         run: |
           node bin/quran.js --version
           node bin/quran.js themes
