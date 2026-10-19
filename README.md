@@ -18,19 +18,9 @@
 
 ---
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│ Iqra bismi rab bikal lazee khalaq                            │
-│                                                              │
-│ Proclaim! (or read!) in the name of thy Lord and Cherisher,  │
-│ Who created-                                                 │
-│                                                              │
-│ — Al-'Alaq 96:1                                              │
-│ https://quran.com/96/1                                       │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+  <img src="docs/screenshots/terminal.png" alt="quran show — a framed ayah with transliteration, translation and a quran.com link" width="720" />
+</p>
 
 ## What it does
 
@@ -43,6 +33,42 @@ It works with Claude Code, OpenAI Codex, Cursor, Gemini CLI, OpenCode, Windsurf,
 - **Fully offline** — 145 curated ayahs bundled with the package, no network calls at runtime
 - **Zero dependencies**, one `node` command, works on Windows, macOS and Linux
 - **Private** — no telemetry, no accounts, no analytics. Ever.
+
+## Screenshots
+
+### Codex
+
+<p align="center">
+  <img src="docs/screenshots/codex.png" alt="Codex TUI showing the Quran panel under 'Hook' before the first reply" width="880" />
+</p>
+
+A live Codex 0.161 session. The `SessionStart` hook output appears as `Hook ·` above the first reply — no extra turn, no interruption.
+
+### OpenCode
+
+<p align="center">
+  <img src="docs/screenshots/opencode.png" alt="OpenCode session with the verse injected as a message" width="720" />
+</p>
+
+OpenCode 1.18.16. The plugin injects the verse with `noReply: true` on `session.created`, so it lands in the conversation without triggering a model response. Captured from `opencode export`.
+
+### Claude Code
+
+<p align="center">
+  <img src="docs/screenshots/claude-code.png" alt="Claude Code plugin details showing one SessionStart hook" width="820" />
+</p>
+
+The plugin loads with exactly one `SessionStart` hook and **zero always-on tokens**.
+
+### Install and verify
+
+<p align="center">
+  <img src="docs/screenshots/install.png" alt="quran install output for five tools" width="780" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/doctor.png" alt="quran doctor output" width="780" />
+</p>
 
 ## Why
 
@@ -174,6 +200,8 @@ Writes `~/.codex/hooks.json`. Codex enables hooks by default.
 
 > `SessionStart` hooks run in the interactive Codex TUI. `codex exec` (non-interactive) does not fire them in Codex 0.161 — this was tested directly.
 
+<p align="center"><img src="docs/screenshots/codex.png" alt="Codex TUI with the Quran panel" width="820" /></p>
+
 ### Cursor
 
 ```bash
@@ -212,6 +240,8 @@ opencode debug config   # should list quran-reminder.js under "plugin"
 ```
 
 Restart OpenCode once after installing.
+
+<p align="center"><img src="docs/screenshots/opencode.png" alt="OpenCode session with the injected verse" width="700" /></p>
 
 ### Windsurf / Devin Desktop
 
@@ -506,6 +536,7 @@ quran-reminder/
 │   ├── ayahs.json            # generated, committed dataset
 │   └── manifest.json         # checksum + counts
 ├── scripts/                  # build:data, verify:data
+├── docs/screenshots/         # README images (captured from real sessions)
 ├── tests/                    # node:test suite (84 tests)
 ├── hooks/hooks.json          # Claude Code plugin hook
 └── .claude-plugin/           # Claude Code plugin + marketplace manifests

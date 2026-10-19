@@ -521,7 +521,11 @@ function commandDoctor() {
   } else {
     for (const entry of installed) {
       line(`  ${entry.ok ? paint.green(SYMBOL.ok) : paint.red(SYMBOL.fail)} ${entry.adapter.name}`);
-      line(paint.dim(`      ${entry.detail}`));
+      const appPath = String(ctx.appRoot).replace(/\\/g, '/');
+      let detail = String(entry.detail).replace(appPath, '~/.quran-reminder/app');
+      detail = detail.replace(/"[^"]*node(?:\.exe)?"/i, 'node');
+      if (detail.length > 96) detail = detail.slice(0, 93) + '...';
+      line(paint.dim(`      ${detail}`));
       if (!entry.ok) failures++;
     }
   }
